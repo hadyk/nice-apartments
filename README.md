@@ -1,4 +1,4 @@
-# Nice apartments under €900
+# Nice apartments — centre & Promenade
 
 A shareable snapshot of **189 rental flats** in Nice, **117 of them** in the centre or
 within walking distance of the Promenade des Anglais. Every listing includes photos, rent,

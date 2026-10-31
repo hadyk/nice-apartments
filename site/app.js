@@ -255,8 +255,8 @@
     if (gen) gen.textContent = fmtDate(DATA.generated_at) || "recently";
     if (DATA.total) {
       $("#lede").textContent =
-        "A snapshot of " + ALL.length + " flats in Nice at €" + (DATA.max_price || 900) +
-        "/month or less — " + near.length + " of them in the centre or within walking distance of the Promenade des Anglais.";
+        "A snapshot of " + ALL.length + " flats in central Nice — " + near.length +
+        " of them in the centre or within walking distance of the Promenade des Anglais.";
     }
   }
 
@@ -459,8 +459,8 @@
 
   /* ---------------- share ---------------- */
   async function share() {
-    const title = "Nice apartments under €900";
-    const text = ALL.length + " flats near the Promenade and centre of Nice, with photos and full details.";
+    const title = "Nice apartments — centre & Promenade";
+    const text = "Flats near the Promenade and centre of Nice, with photos and full details.";
     const url = location.href;
     if (navigator.share) {
       try {
