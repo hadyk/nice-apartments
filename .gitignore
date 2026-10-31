@@ -1,5 +1,5 @@
-cache/
-data/
+/cache/
+/data/
 *.zip
 nice-apartments.html
 __pycache__/
