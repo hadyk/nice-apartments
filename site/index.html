@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nice, under €900 — apartments at a glance</title>
+<meta name="description" content="A shareable snapshot of rental apartments in Nice at €900/month or less, with photos and every detail at a glance.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <div class="kicker">NICE · FRANCE · RENTALS</div>
+    <h1>Apartments under <span>€900</span><br>near the Promenade &amp; centre</h1>
+    <p class="lede" id="lede">A live snapshot of what is actually available right now — photos, price, surface and the full story on every listing.</p>
+
+    <div class="stats" id="stats"></div>
+
+    <div class="hero-actions">
+      <button class="btn btn-light" id="shareBtn" type="button">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 8a3 3 0 1 0-2.8-4H15a3 3 0 0 0 .1 1L8.9 8.6a3 3 0 1 0 0 6.8l6.2 3.5a3 3 0 1 0 .8-1.8l-6.2-3.5a3 3 0 0 0 0-3.2l6.2-3.5c.5.6 1.2 1 2.1 1Z"/></svg>
+        Share this page
+      </button>
+      <a class="btn btn-ghost" href="#listings">Browse the listings</a>
+    </div>
+  </div>
+</header>
+
+<section class="controls" aria-label="Filters">
+  <div class="controls-inner">
+    <div class="search-row">
+      <label class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4a6 6 0 1 0 3.5 10.9l4.3 4.3 1.4-1.4-4.3-4.3A6 6 0 0 0 10 4Zm0 2a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"/></svg>
+        <input id="q" type="search" placeholder="Search a street, district, keyword…" autocomplete="off">
+      </label>
+      <label class="select-wrap">
+        <span>Sort</span>
+        <select id="sort">
+          <option value="best">Best match</option>
+          <option value="price-asc">Price: low to high</option>
+          <option value="price-desc">Price: high to low</option>
+          <option value="surface-desc">Surface: largest first</option>
+          <option value="newest">Newest first</option>
+        </select>
+      </label>
+    </div>
+
+    <div class="filter-grid">
+      <label class="field">
+        <span>Max rent <b id="priceOut">€900</b></span>
+        <input id="maxPrice" type="range" min="300" max="900" step="10" value="900">
+      </label>
+
+      <label class="field">
+        <span>Min surface <b id="surfaceOut">0 m²</b></span>
+        <input id="minSurface" type="range" min="0" max="60" step="5" value="0">
+      </label>
+
+      <label class="field">
+        <span>Rooms</span>
+        <select id="rooms">
+          <option value="any">Any</option>
+          <option value="studio">Studio</option>
+          <option value="1">1 bedroom</option>
+          <option value="2">2+ bedrooms</option>
+        </select>
+      </label>
+
+      <label class="field">
+        <span>Furnishing</span>
+        <select id="furnished">
+          <option value="any">Any</option>
+          <option value="yes">Furnished</option>
+          <option value="no">Unfurnished</option>
+        </select>
+      </label>
+
+      <label class="field">
+        <span>District</span>
+        <select id="district"><option value="any">All districts</option></select>
+      </label>
+
+      <div class="toggles">
+        <label class="toggle">
+          <input id="nearOnly" type="checkbox" checked>
+          <span>Near centre / Promenade only</span>
+        </label>
+        <label class="toggle">
+          <input id="showRooms" type="checkbox">
+          <span>Include rooms &amp; colocations</span>
+        </label>
+      </div>
+    </div>
+
+    <div class="result-bar">
+      <p id="resultCount">Loading…</p>
+      <button class="link-btn" id="resetBtn" type="button">Reset filters</button>
+    </div>
+  </div>
+</section>
+
+<main id="listings" class="wrap">
+  <div id="grid" class="grid" aria-live="polite"></div>
+  <div id="empty" class="empty" hidden>
+    <div class="empty-icon">⌂</div>
+    <h2>No apartment matches those filters</h2>
+    <p>Try raising the rent cap, lowering the minimum surface, or including rooms.</p>
+    <button class="btn btn-solid" id="emptyReset" type="button">Reset filters</button>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <p><strong>How this was made.</strong> Listings are pulled from <a href="https://www.bienici.com" target="_blank" rel="noopener">Bien'ici</a>'s public search for flats in Nice at €900/month or less, then filtered to the centre and the Promenade des Anglais. Photos and details come from each ad.</p>
+    <p class="fine">Snapshot generated <span id="generated">—</span>. Prices and availability change daily — always confirm with the agency before visiting. This page is an independent snapshot and is not affiliated with Bien'ici.</p>
+  </div>
+</footer>
+
+<div class="modal" id="modal" hidden>
+  <div class="modal-backdrop" data-close></div>
+  <div class="dialog" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <button class="modal-close" data-close aria-label="Close">×</button>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
+</div>
+
+<script src="data/listings.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
