@@ -6,6 +6,8 @@ charges, deposit, surface, rooms, DPE/GES, agency contact and the full descripti
 
 Data source: [Bien'ici](https://www.bienici.com) public listings. Snapshot: 2026-10-31T23:27:22+01:00.
 
+**Live page:** https://hadyk.github.io/nice-apartments/
+
 ## The two ways to share it
 
 ### 1. One file (easiest)
