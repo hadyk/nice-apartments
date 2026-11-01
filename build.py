@@ -99,13 +99,19 @@ def build_standalone(payload):
 def write_readme(payload):
     n = payload.get("total", 0)
     near = sum(1 for l in payload["listings"] if l.get("near_center"))
+    sources = {}
+    for l in payload["listings"]:
+        for s in (l.get("sources") or [l.get("source", "—")]):
+            sources[s] = sources.get(s, 0) + 1
+    by_source = ", ".join(f"{s}: {n}" for s, n in sorted(sources.items()))
     text = f"""# Nice apartments — centre & Promenade
 
 A shareable snapshot of **{n} rental flats** in Nice, **{near} of them** in the centre or
-within walking distance of the Promenade des Anglais. Every listing includes photos, rent,
+within walking distance of the Promenade des Anglais ({by_source}). Every listing includes photos, rent,
 charges, deposit, surface, rooms, DPE/GES, agency contact and the full description.
 
-Data source: [Bien'ici](https://www.bienici.com) public listings. Snapshot: {payload.get('generated_at', '')}.
+Data source: [Bien'ici](https://www.bienici.com) (agencies), [LocService](https://www.locservice.fr) and
+[123 Loger](https://www.123loger.com) (owner-direct listings). Snapshot: {payload.get('generated_at', '')}.
 
 **Live page:** https://hadyk.github.io/nice-apartments/
 

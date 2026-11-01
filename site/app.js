@@ -69,6 +69,7 @@
     rooms: "any",
     furnished: "any",
     district: "any",
+    source: "any",
     nearOnly: true,
     showRooms: false,
   };
@@ -76,7 +77,7 @@
   const els = {
     q: $("#q"), sort: $("#sort"), maxPrice: $("#maxPrice"), minSurface: $("#minSurface"),
     rooms: $("#rooms"), furnished: $("#furnished"), district: $("#district"),
-    nearOnly: $("#nearOnly"), showRooms: $("#showRooms"),
+    source: $("#source"), nearOnly: $("#nearOnly"), showRooms: $("#showRooms"),
     grid: $("#grid"), empty: $("#empty"), count: $("#resultCount"),
     priceOut: $("#priceOut"), surfaceOut: $("#surfaceOut"),
   };
@@ -94,6 +95,7 @@
     state.rooms = els.rooms.value;
     state.furnished = els.furnished.value;
     state.district = els.district.value;
+    state.source = els.source.value;
     state.nearOnly = els.nearOnly.checked;
     state.showRooms = els.showRooms.checked;
     els.priceOut.textContent = money(state.maxPrice);
@@ -108,6 +110,7 @@
     if (state.nearOnly && !l.near_center) return false;
     if (!state.showRooms && (l.is_room || l.is_coloc)) return false;
     if (state.district !== "any" && l.district !== state.district) return false;
+    if (state.source !== "any" && !(l.sources || [l.source]).includes(state.source)) return false;
     if (state.furnished === "yes" && !l.furnished) return false;
     if (state.furnished === "no" && l.furnished) return false;
 
@@ -159,6 +162,10 @@
     const badge = el("div", "price-badge");
     badge.innerHTML = "<b>" + money(l.price) + "</b><small>/month</small>";
     photo.appendChild(badge);
+
+    const srcNames = (l.sources && l.sources.length) ? l.sources : [l.source || "—"];
+    const srcBadge = el("span", "source-badge", srcNames.join(" · "));
+    photo.appendChild(srcBadge);
 
     if (l.near_center) photo.appendChild(el("span", "near-badge", "Near centre"));
     if (l.is_room || l.is_coloc) {
@@ -269,6 +276,22 @@
       opt.value = name;
       opt.textContent = shortDistrict(name) + " (" + n + ")";
       els.district.appendChild(opt);
+    });
+  }
+
+  function fillSources() {
+    if (!els.source) return;
+    const counts = new Map();
+    ALL.forEach((l) => {
+      (l.sources && l.sources.length ? l.sources : [l.source]).forEach((s) => {
+        counts.set(s, (counts.get(s) || 0) + 1);
+      });
+    });
+    [...counts.entries()].sort((a, b) => b[1] - a[1]).forEach(([name, n]) => {
+      const opt = document.createElement("option");
+      opt.value = name;
+      opt.textContent = name + " (" + n + ")";
+      els.source.appendChild(opt);
     });
   }
 
@@ -384,8 +407,10 @@
     grid.appendChild(factBox("Furnished", l.furnished ? "Yes" : "No"));
     if (l.dpe) grid.appendChild(factBox("DPE (energy)", l.dpe + (l.dpe_value ? " · " + l.dpe_value + " kWh/m²/yr" : "")));
     if (l.ges) grid.appendChild(factBox("GES (emissions)", l.ges + (l.ges_value ? " · " + l.ges_value + " kgCO₂/m²/yr" : "")));
-    const dist = distanceLabel(l);
-    if (dist) grid.appendChild(factBox("To " + (dist.kind === "sea" ? "Promenade" : "centre"), dist.km.toFixed(1) + " km"));
+    const srcNames = (l.sources && l.sources.length) ? l.sources : [l.source || "—"];
+    grid.appendChild(factBox("Listed on", srcNames.join(" · ")));
+    const dist0 = distanceLabel(l);
+    if (dist0) grid.appendChild(factBox("To " + (dist0.kind === "sea" ? "Promenade" : "centre"), dist0.km.toFixed(1) + " km"));
     detail.appendChild(grid);
 
     if (l.description) {
@@ -481,7 +506,8 @@
 
   /* ---------------- wire up ---------------- */
   [els.q, els.sort, els.maxPrice, els.minSurface, els.rooms, els.furnished,
-   els.district, els.nearOnly, els.showRooms].forEach((node) => {
+   els.district, els.source, els.nearOnly, els.showRooms].forEach((node) => {
+    if (!node) return;
     node.addEventListener("input", render);
     node.addEventListener("change", render);
   });
@@ -510,6 +536,7 @@
   });
 
   fillDistricts();
+  fillSources();
   renderStats();
   readState();
   render();

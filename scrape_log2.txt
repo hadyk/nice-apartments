@@ -1,0 +1,465 @@
+[zone] Nice -> ['-170100']
+[bienici] page 1: +24 (total 189)
+[bienici] page 2: +24 (total 189)
+[bienici] page 3: +24 (total 189)
+[bienici] page 4: +24 (total 189)
+[bienici] page 5: +24 (total 189)
+[bienici] page 6: +24 (total 189)
+[bienici] page 7: +24 (total 189)
+[bienici] page 8: +21 (total 189)
+[bienici] 189 unique listings <= 900 EUR
+  [1/189] 450 EUR - CIMIEZ - Chambre meublée avec coin cuisine
+  [2/189] 474 EUR - A louer NICE studio meublé centre/cimiez
+  [3/189] 480 EUR - Nice-ouest / Bas Fabron - Chambre à louer en colocation
+  [4/189] 505 EUR - Studio
+  [5/189] 510 EUR - À LOUER NICE – VIEUX-NICE / PRÉFECTURE – STUDIO 19 M² -
+  [6/189] 532.99 EUR - CESSOLE STUDIO MEUBLÉ
+  [7/189] 545 EUR - Appartement 1 pièce 19 m², Nice - 545 €
+  [8/189] 548 EUR - Appartement meublé 1 pièce 11 m², Nice - 548 €
+  [9/189] 550 EUR - STUDIO - LIBERATION GAMBETTA
+  [10/189] 550 EUR - Nice-ouest / Avenue Saint Augustin - Chambre en colocat
+  [11/189] 555 EUR - T1
+  [12/189] 585 EUR - Studio
+  [13/189] 590 EUR - LOCATION MEUBLEE STUDIO A PARTIR DU 1er DECEMBRE 2025
+  [14/189] 590 EUR - Chambre de 12m² avec terrasse commune de 15m²
+  [15/189] 595 EUR - Co-location à Nice (06300)
+  [16/189] 595 EUR - CHAMBRE COLOCATION - NICE ARENAS PARC PHENIX
+  [17/189] 600 EUR - Studio vide
+  [18/189] 601 EUR - COLOCATION - Chambre + Salle d'eau privative Nice 13,24
+  [19/189] 610 EUR - Studio proche tnl
+  [20/189] 620 EUR - Fac de science studio vide calme
+  [21/189] 633 EUR - Location studio meublé 14.68m2 secteur Garibaldi
+  [22/189] 640 EUR - STUDIO MEUBLE Nice centre
+  [23/189] 641 EUR - Nice Est - Studio en rez-de-jardin
+  [24/189] 645 EUR - Studio meublé 20 m², Nice - 645 €
+  [25/189] 650 EUR - À louer Chambre en COLOCATION Bas de villa T4 avec cour
+  [26/189] 650 EUR - COLOCATION - BD DE LA MADELEINE
+  [27/189] 650 EUR - STUDIO MEUBLE - 1 RUE FULCONIS - NICE PASTEUR
+  [28/189] 650 EUR - COLOCATION - UNE CHAMBRE PROCHE CARLONE
+  [29/189] 650 EUR - NICE Centre - Place GARIBALDI STUDIO MEUBLE
+  [30/189] 650 EUR - Appartement Nice - STUDIO Meublé
+  [31/189] 660 EUR - Nice ouest studio balcon
+  [32/189] 670 EUR - NICE REPUBLIQUE - Proche faculté
+  [33/189] 674 EUR - BAIL ETUDANT UNIQUEMENT - DUPLEX - RUE DE FRANCE
+  [34/189] 676 EUR - MAXTER Buffa - DISPONIBLE IMMEDIATEMENT
+  [35/189] 680 EUR - T2
+  [36/189] 680 EUR - LOCATION MEUBLEE STUDIO MEUBLE RENOVE - CALME - TERRASS
+  [37/189] 680 EUR - Appartement meublé 1 pièce 14 m², Nice - 680 €
+  [38/189] 680 EUR - Appartement meublé 1 pièce 9 m², Nice - 680 €
+  [39/189] 684.84 EUR - A LOUER - AU COEUR DE RIQUIER - MAGNIFIQUE STUDIO MEUBL
+  [40/189] 690 EUR - Studio de 32 m² - Nice - Meublé
+  [41/189] 690 EUR - STUDIO MEUBLE - 20 BD ARMEE DES ALPES - DEBUT SAINT ROC
+  [42/189] 690 EUR - NICE EST, Boulevard Carnot, nous vous proposons ce joli
+  [43/189] 690 EUR - Coulée Verte
+  [44/189] 690 EUR - NICE CENTRE - STUDIO MEUBLE - AVENUE DURANTE
+  [45/189] 690 EUR - Chambre avec salle de bain privative
+  [46/189] 693 EUR - LOCATION MEUBLEE - RUE DE FRANCE
+  [47/189] 695 EUR - Riquier - Delfino
+  [48/189] 695 EUR - STUDIO MEUBLE - 2 RUE FRANCOIS GUISOL - NICE PORT
+  [49/189] 695 EUR - 2 PIECES VIDE - 19 JOSEPH GARNIER - LIBERATION
+  [50/189] 695 EUR - NICE CARRE D'OR - RUE BERLIOZ - STUDIO MEUBLE - REFAIT 
+  [51/189] 699.11 EUR - Appartement 1 pièce 25 m², Nice - 699 €
+  [52/189] 700 EUR - Chambre meublée en colocation dans un T4 de 81 m² – Nic
+  [53/189] 700 EUR - T3
+  [54/189] 700 EUR - T3
+  [55/189] 700 EUR - STUDIO - AVENUE EMILE BIECKERT
+  [56/189] 700 EUR - NICE - STUDIO 21m2 - PROMENADES DES ANGLAIS
+  [57/189] 700 EUR - Studio meublé Valrose
+  [58/189] 700 EUR - LOCATION NICE SAINT AUGUSTIN
+  [59/189] 700 EUR - Appartement meublé 1 pièce 15 m², Nice - 700 €
+  [60/189] 700 EUR - CHAMBRE - avec accès terrasse et jardin
+  [61/189] 700 EUR - Chambre avec accès piscine sur le jardin
+  [62/189] 705.24 EUR - APPARTEMENT A LOUER : NICE PORT - RIQUIER - STUDIO MEUB
+  [63/189] 720 EUR - Nice - Valrose - COLOCATIONS Chambres meublées
+  [64/189] 720 EUR - Charmant F1bis avec terrasse vue mer & emplacement idéa
+  [65/189] 720 EUR - Pasteur studio balcon
+  [66/189] 720 EUR - NICE,- LOCATION MEUBLEE PROCHE LIBERATION
+  [67/189] 720 EUR - Studio Carré d'Or
+  [68/189] 720 EUR - Appartement meublé 1 pièce 16 m², Nice - 720 €
+  [69/189] 720 EUR - Nice - QUARTIER POETES
+  [70/189] 720 EUR - NICE CENTRE VILLE - RUE JACQUES GUIDONI - REZ DE CHAUSS
+  [71/189] 730 EUR - NICE RIQUIER - Grande chambre
+  [72/189] 730.48 EUR - Magnifique T2 meublé dans le centre de Nice
+  [73/189] 731 EUR - NICE: STUDIO NICE NORD
+  [74/189] 740 EUR - NICE - CIMIEZ - STUDIO AVEC COIN NUIT - 33 m2 - CAVE - 
+  [75/189] 740 EUR - STUDIO VIDE
+  [76/189] 740 EUR - Studio
+  [77/189] 740 EUR - Studio
+  [78/189] 750 EUR - Libération : 3 pieces en colocation
+  [79/189] 750 EUR - F1 de 30m² entièrement rénové à Nice
+  [80/189] 750 EUR - Nice Saint Roch - F2 meublé en duplex + terrasse - 28.1
+  [81/189] 750 EUR - F1 de 26m² avec terrasse de 9m²
+  [82/189] 750 EUR - LOCATION MEUBLE - 31 RUE DE LA FONTAINE - NICE RIQUIER
+  [83/189] 750 EUR - Nice Saint Roch - Studio meublé + balcon - 24.80m²
+  [84/189] 750 EUR - ANTONA - DISPONIBLE IMMEDIATEMENT
+  [85/189] 750 EUR - Appartement 1 pièce 15 m², Nice - 750 €
+  [86/189] 750 EUR - Chambre meublée à Nice Nord, à proximité de Valrose
+  [87/189] 751 EUR - NICE - GORBELLA -- STUDIO DE 39m2 - TERRASSE
+  [88/189] 755 EUR - Appartement T1 meublé à louer à Nice Sainte-Marguerite,
+  [89/189] 755 EUR - STUDIO MEUBLE BORNALA
+  [90/189] 758 EUR - Location Nice, studio meublé 25.84m² situé proche TNL
+  [91/189] 760 EUR - À LOUER NICE – LIBÉRATION / JOSEPH-GARNIER – 2 PIÈCES M
+  [92/189] 760 EUR - T1
+  [93/189] 765 EUR - Nice Est Studio de 30 m² avec balcon, cave et parking c
+  [94/189] 765 EUR - Location meublée longue durée
+  [95/189] 775 EUR - Studio avec balcon proche centre ville
+  [96/189] 777 EUR - NICE Ouest - ABBAYE DE ROSELAND - BEAU STUDIO - MEUBLE 
+  [97/189] 780 EUR - Beau studio vide
+  [98/189] 780 EUR - CENTRE VILLE/GEORGES CLEMENCEAU
+  [99/189] 780 EUR - FABRON - STUDIO A LOUER - PARKING - TERRASSE - CAVE
+  [100/189] 785 EUR - Location grand studio 33 m2 Nice Parc Impérial
+  [101/189] 789 EUR - Appartement meublé 1 pièce 23 m², Nice - 789 €
+  [102/189] 790 EUR - Location longue durée Grand studio Nice Cimiez Valrose
+  [103/189] 790 EUR - Appartement 2 pièces 35 m², Nice - 790 €
+  [104/189] 790 EUR - Studio Proche Libération
+  [105/189] 790 EUR - Studio de 23m² avec terrasse
+  [106/189] 790 EUR - Studio meublé avec terrasse + piscine
+  [107/189] 790 EUR - Appartement meublé 1 pièce 18 m², Nice - 790 €
+  [108/189] 793 EUR - Appartement à louer NICE
+  [109/189] 795 EUR - A LOUER 2PIECES UNIQUEMENT POUR ETUDIANT
+  [110/189] 795 EUR - Appartement à louer Nice
+  [111/189] 795 EUR - St Jean d'Angely - studio meublé 20,45 m² - balcon
+  [112/189] 800 EUR - Studio climatisé au calme – Centre-ville de Nice
+  [113/189] 800 EUR - Studio de 20m² avec balcon
+  [114/189] 800 EUR - Nice Gambetta - Studio avec coin nuit neuf
+  [115/189] 800 EUR - Studio avec vue sur les toits de Nice
+  [116/189] 805 EUR - NICE - LE PORT
+  [117/189] 810 EUR - À LOUER NICE – VIEUX-NICE / RUE DU COLLET – 2 PIÈCES ME
+  [118/189] 810 EUR - AV DES PINS NICE OUEST PROCHA ARENAS, studio vide 30m2 
+  [119/189] 810 EUR - A LOUER STUDIO MEUBLE NICE NORD
+  [120/189] 811 EUR - 2 PIECES MEUBLES - PROCHE FACULTE - BAIL DE SEPTEMBRE A
+  [121/189] 813 EUR - T2
+  [122/189] 815 EUR - NICE - REPUBLIQUE - 2 PIECES MEUBLE - TERRASSE
+  [123/189] 820 EUR - Studio Carabacel - 33,07m2
+  [124/189] 820 EUR - Deux pièces à côté de Nice étoile
+  [125/189] 820 EUR - NICE E.Scoffier - T1/2 MEUBLE + Terrasse
+  [126/189] 825 EUR - 2pièces meublé etudiant terrasse
+  [127/189] 825 EUR - F1 MEUBLE BAIL ETUDIANT 9 MOIS
+  [128/189] 826 EUR - 2 PIECES VIEUX NICE
+  [129/189] 830 EUR - Appartement meublé 2 pièces 32 m², Nice - 830 €
+  [130/189] 830 EUR - 2 PIECES MEUBLE - CARRAS
+  [131/189] 830 EUR - Deux pièces avec balcon et jardin
+  [132/189] 830 EUR - Appartement 1 pièce 25 m², Nice - 830 €
+  [133/189] 830 EUR - NICE CENTRE - 42 AVENUE MARECHAL FOCH - STUDIO AVEC MEZ
+  [134/189] 834 EUR - Musiciens, Verdi 2 pièces avec balcon
+  [135/189] 835 EUR - À LOUER – STUDIO MEUBLÉ MANSARDÉ – RUE DEFLY, NICE
+  [136/189] 840 EUR - F1 - NICE CARRÉ D'OR GRAND HOTEL
+  [137/189] 840 EUR - NICE - BAS CIMIEZ - GRAND STUDIO - TERRASSE VUE MER
+  [138/189] 850 EUR - Appartement 2 pièces 40 m², Nice - 850 €
+  [139/189] 850 EUR - Appartement 1 pièce 37 m², Nice - 850 €
+  [140/189] 850 EUR - NICE: STUDIO ST MARGUERITE
+  [141/189] 850 EUR - Charmant studio climatisé à Vernier - Nice
+  [142/189] 850 EUR - Appartement meublé 1 pièce 28 m², Nice - 850 €
+  [143/189] 850 EUR - NICE Le Port Studio 25m² Meublé balcon vue mer
+  [144/189] 850 EUR - Studio avec balcon - Les Musiciens
+  [145/189] 850 EUR - Nouveauté à louer Appartement Nice -gare-av auber -1 pi
+  [146/189] 850 EUR - Location étudiante de sept à juin - Appartement T1 à lo
+  [147/189] 850 EUR - NICE: STUDIO RUE MIRON
+  [148/189] 850 EUR - STUDIO - BALCON - PLEIN SUD
+  [149/189] 850 EUR - STUDIO CENTRE VILLE
+  [150/189] 860 EUR - Appartement meublé 2 pièces 37 m², Nice - 860 €
+  [151/189] 865 EUR - CAFARELLI /FLEURS/ GAMBETTA LIBRE RAPIDEMENT
+  [152/189] 867 EUR - Appartement au calme avec grande terrasse – 55 rue Augu
+  [153/189] 870 EUR - 2 PIECES AVEC TERRASSE
+  [154/189] 871.05 EUR - NICE BAUMETTES - Appartement Nice 2 pièces de 35 m2 - m
+  [155/189] 876 EUR - F2 MEUBLE - VIEUX NICE
+  [156/189] 877 EUR - STUDIO ETUDIANT - Vieux Nice
+  [157/189] 880 EUR - NICE - GRAND STUDIO / F1 A QUELQUES MINUTES DU CENTRE V
+  [158/189] 880 EUR - Appartement - 5ème étage - 40 m2 - 2 pièces - Non meubl
+  [159/189] 880 EUR - Location étudiante jusqu'à 30 juin
+  [160/189] 880 EUR - Superbe studio de 31m² dans une résidence avec piscine
+  [161/189] 885 EUR - Appartement 2 pièces 42 m², Nice - 885 €
+  [162/189] 886.25 EUR - Appartement 2 pièces 40 m², Nice - 886 €
+  [163/189] 890 EUR - NICE NORD Location 2 pièce MEUBLE - Av St Lambert - Qua
+  [164/189] 890 EUR - MAGNAN - A LOUER 2 PIECES RENOVE MEUBLE ET TRAVERSANT 4
+  [165/189] 890 EUR - Appartement Nice 2 pièces 38 m2 au port
+  [166/189] 890 EUR - DELFINO - 2P - MEUBLE
+  [167/189] 890 EUR - 2 pièces - Nice Baumettes
+  [168/189] 890 EUR - PLACE MARSHALL 2 PIECES
+  [169/189] 890 EUR - Studio meublé - Port de Nice
+  [170/189] 890 EUR - APPARTEMENT MEUBLÉ AVEC TERRASSE – NICE SAINTE-MARGUERI
+  [171/189] 890 EUR - Location Studio meublé - Corniche Fleurie
+  [172/189] 890 EUR - A louer sur Nice centre ville 1 pièce(s) 17.3 m2 avec m
+  [173/189] 892 EUR - Studio - Nice Nord Chambrun
+  [174/189] 894.26 EUR - Appartement 2 pièces 41 m², Nice - 894 €
+  [175/189] 895 EUR - Deux pièces rue de France Nice
+  [176/189] 895 EUR - Nice – Promenade des Anglais – 2 pièces meublé vue mer 
+  [177/189] 897.32 EUR - Appartement Nice 2 pièce(s) 37.05 m2
+  [178/189] 899.22 EUR - Appartement 2 pièces 46 m², Nice - 899 €
+  [179/189] 900 EUR - NICE CENTRE - RUE PASTORELLI - TERRASSE
+  [180/189] 900 EUR - Appartement 2 pièces 38 m², Nice - 900 €
+  [181/189] 900 EUR - APPARTEMENT 2 PIECES MEUBLE - 88 BOULEVARD CESSOLE - NI
+  [182/189] 900 EUR - APPARTEMENT 2 PIECES - 88 BOULEVARD CESSOLE - NICE NORD
+  [183/189] 900 EUR - 2 PIECES ETUDIANT - 12 FRANCOIS GUISOL - NICE PORT
+  [184/189] 900 EUR - Location appartement 2 Pièce(s)
+  [185/189] 900 EUR - Appartement T1 MEUBLE 31.81M² - A LOUER - RIQUIER
+  [186/189] 900 EUR - Nice Borriglione - F2 vide en duplex + terrasse - 31.18
+  [187/189] 900 EUR - A LOUER 1 PIECE AVEC PARKING
+  [188/189] 900 EUR - Port de Nice - studio de 26 M2 meublé - à louer
+  [189/189] 900 EUR - Triplex location Nice
+[locservice] page 1: 24 flats <= 900 EUR
+  [locservice] 700 EUR - appartement meublé à Nice (None)
+  [locservice] 780 EUR - studio meublé à Nice (None)
+  [locservice] 650 EUR - studio meublé à Nice (geocoded: rue bonaparte)
+  [locservice] 640 EUR - appartement à Nice (quartier: cessole)
+  [locservice] 460 EUR - studio meublé à Nice (quartier: médecin)
+  [locservice] 610 EUR - studio meublé à Nice (None)
+  [locservice] 750 EUR - appartement meublé à Nice (quartier: libération)
+  [locservice] 900 EUR - appartement meublé à Nice (quartier: libération)
+  [locservice] 760 EUR - studio meublé à Nice (None)
+  [locservice] 690 EUR - studio meublé à Nice (quartier: californie)
+  [locservice] 690 EUR - studio meublé à Nice (quartier: cimiez)
+  [locservice] 763 EUR - appartement meublé à Nice (None)
+  [locservice] 849 EUR - appartement meublé à Nice (None)
+  [locservice] 700 EUR - chambre meublée à Nice (quartier: pasteur)
+  [locservice] 900 EUR - appartement meublé à Nice (None)
+  [locservice] 670 EUR - studio meublé à Nice (quartier: madeleine)
+  [locservice] 700 EUR - studio à Nice (quartier: medecin)
+  [locservice] 850 EUR - studio meublé à Nice (quartier: centre-ville)
+  [locservice] 680 EUR - studio meublé à Nice (None)
+  [locservice] 770 EUR - studio meublé à Nice (quartier: centre ville)
+  [locservice] 620 EUR - studio à Nice (None)
+  [locservice] 650 EUR - studio meublé à Nice (quartier: libération)
+  [locservice] 830 EUR - studio meublé à Nice (quartier: centre ville)
+  [locservice] 850 EUR - appartement meublé à Nice (quartier: vieux-nice)
+[locservice] page 2: 15 flats <= 900 EUR
+  [locservice] 760 EUR - appartement meublé à Nice (quartier: centre-ville)
+  [locservice] 720 EUR - studio meublé à Nice (quartier: vieux nice)
+  [locservice] 700 EUR - studio meublé à Nice (quartier: massena)
+  [locservice] 550 EUR - chambre meublée à Nice (quartier: libération)
+  [locservice] 780 EUR - chambre meublée à Nice (None)
+  [locservice] 800 EUR - chambre meublée à Nice (quartier: carras)
+  [locservice] 800 EUR - studio à Nice (None)
+  [locservice] 900 EUR - studio meublé à Nice (None)
+  [locservice] 860 EUR - studio meublé à Nice (quartier: musicien)
+  [locservice] 840 EUR - chambre meublée à Nice (None)
+  [locservice] 900 EUR - studio meublé à Nice (quartier: riquier)
+  [locservice] 750 EUR - appartement meublé à Nice (None)
+  [locservice] 900 EUR - studio meublé à Nice (quartier: parc impérial)
+  [locservice] 900 EUR - chambre meublée à Nice (quartier: valrose)
+  [locservice] 660 EUR - chambre meublée à Nice (None)
+[locservice] page 3: 24 flats <= 900 EUR
+  [locservice] 700 EUR - appartement à Nice (None)
+  [locservice] 690 EUR - studio meublé à Nice (None)
+  [locservice] 850 EUR - studio meublé à Nice (quartier: centre-ville)
+  [locservice] 820 EUR - studio à Nice (quartier: cessole)
+  [locservice] 600 EUR - appartement meublé à Nice (quartier: centre ville)
+  [locservice] 900 EUR - appartement meublé à Nice (quartier: carré d'or)
+  [locservice] 840 EUR - appartement meublé à Nice (quartier: cessole)
+  [locservice] 900 EUR - studio meublé à Nice (None)
+  [locservice] 900 EUR - chambre meublée à Nice (None)
+  [locservice] 900 EUR - chambre meublée à Nice (None)
+  [locservice] 820 EUR - studio meublé à Nice (quartier: thiers)
+  [locservice] 615 EUR - studio meublé à Nice (quartier: médecin)
+  [locservice] 650 EUR - appartement meublé à Nice (quartier: médecin)
+  [locservice] 750 EUR - studio meublé à Nice (None)
+  [locservice] 770 EUR - appartement meublé à Nice (quartier: port de nice)
+  [locservice] 599 EUR - chambre meublée à Nice (quartier: centre ville)
+  [locservice] 855 EUR - studio meublé à Nice (quartier: libération)
+  [locservice] 820 EUR - studio meublé à Nice (None)
+  [locservice] 620 EUR - chambre meublée à Nice (None)
+  [locservice] 700 EUR - chambre meublée à Nice (None)
+  [locservice] 800 EUR - chambre meublée à Nice (quartier: cimiez)
+  [locservice] 500 EUR - chambre meublée à Nice (None)
+  [locservice] 850 EUR - appartement meublé à Nice (None)
+  [locservice] 870 EUR - studio meublé à Nice (quartier: cessole)
+[locservice] page 4: 1 flats <= 900 EUR
+  [locservice] 497 EUR - chambre meublée à Nice (quartier: riquier)
+[locservice] page 5: 0 flats <= 900 EUR
+[123loger] page 1: 20 ads
+  [123loger] 620 EUR - Studio refait à neuf, calme avec terrasse (None)
+  [123loger] 750 EUR - Studio -T1- Centre ville (None)
+  [123loger] 680 EUR - Joli studio avec terrasse, exposition sud-est (None)
+  [123loger] 860 EUR - Appartement 2 Pièces 40 m² avec terrasse (None)
+  [123loger] 600 EUR - Location studio nice 06000 (None)
+  [123loger] 595 EUR - Studio 31 m2 à Nice (None)
+  [123loger] 500 EUR - Studio 21m2 à Nice (None)
+  [123loger] 700 EUR - Beau studio meublé avec terrasse Bail mobilité (None)
+  [123loger] 550 EUR - Studio meublé - Proche centre ville Nice (None)
+  [123loger] 760 EUR - A louer superbe studio meublé nice Ouest Fabron (None)
+  [123loger] 900 EUR - Beau 3P meublé à Nice HENRI SAPPIA à découvrir (None)
+  [123loger] 675 EUR - Beau studio 20m² avec mezzanine meublé et équipé (None)
+  [123loger] 900 EUR - 2 Pièces Nice Rue de France (None)
+  [123loger] 900 EUR - Grand Appartement T2 avec une terrasse (None)
+  [123loger] 750 EUR - 2 pièces 40m2 meublé à Nice (None)
+  [123loger] 450 EUR - Sruid à louer quartier Pessicart à Nice (None)
+  [123loger] 850 EUR - T2 meublé 30m² pour ETUDIANT promenade des anglais (None)
+[123loger] page 2: 24 ads
+  [123loger] 590 EUR - Studio à Nice (None)
+  [123loger] 800 EUR - Appartement à 2 pas de la promenade des anglais (None)
+  [123loger] 730 EUR - Beau studio meublé avec terrasse au centre de Nice (None)
+  [123loger] 790 EUR - Location meublée appartement 2 pièces 34 m² (None)
+  [123loger] 730 EUR - Beau studio 25m2 à Nice (None)
+  [123loger] 480 EUR - Colocation petit immeuble niçois (None)
+  [123loger] 545 EUR - Joli studio au coeur de Nice - Quartier dynamique (None)
+  [123loger] 580 EUR - Beau studio meublé 18m² (étudiant.e) très calme (None)
+  [123loger] 850 EUR - Appartement 2 pièces 42 m² Nice (None)
+  [123loger] 730 EUR - Appartement, Nice (None)
+  [123loger] 790 EUR - Beau 2P 42m² ave de la Californie à 50m de la mer (None)
+  [123loger] 750 EUR - Studio meublé rénové avec terrasse Bail mobilité (None)
+  [123loger] 580 EUR - Location chambre dans un appartement de 65 m2 (None)
+  [123loger] 699 EUR - SYMPATHIQUE STUDIO 21m² (None)
+  [123loger] 540 EUR - Petit studio très agréable (None)
+  [123loger] 700 EUR - Studio meublé étudiant à Nice (None)
+  [123loger] 700 EUR - Location appartement 2 pièces Nice (None)
+  [123loger] 450 EUR - Studette meublée centre Nice pour étudiant (None)
+[123loger] page 3: 24 ads
+  [123loger] 605 EUR - Studio à Nice tout confort avec climatisation (None)
+  [123loger] 750 EUR - Beau T 1 30m² quartier Riquier (None)
+  [123loger] 825 EUR - Charmant studio à louer à Fabron avec Parking (None)
+  [123loger] 800 EUR - Studio meublé 25m² bail étudiant ou temporaire (None)
+  [123loger] 800 EUR - Beau studio meublé 21m² vue mer -Nice Ouest (None)
+  [123loger] 739 EUR - 2P meublé 24,85m2 plein sud à Nice Valrose (None)
+  [123loger] 720 EUR - Studio meublé à Nice (None)
+  [123loger] 750 EUR - Beau studio meublé 27m² avec Parking + Balcon (None)
+  [123loger] 750 EUR - Charmant studio meublé 19m² +mezzanine proche mer (None)
+  [123loger] 880 EUR - Appartement 2 pièces étudiant proche des facs (None)
+  [123loger] 850 EUR - Studio proche Promenade (None)
+  [123loger] 600 EUR - Chambre à louer colocation (None)
+  [123loger] 730 EUR - Beau studio meublé 20m² rénové Nice Est (None)
+  [123loger] 780 EUR - Studio meublé étudiant (None)
+[123loger] page 4: 24 ads
+  [123loger] 590 EUR - Appartement meublé 50m2 (None)
+  [123loger] 730 EUR - Magnifique studio meublé avec vue 35m2 à Nice (None)
+  [123loger] 750 EUR - Studio meublé rénové avec accès jardin – Étudiants (None)
+  [123loger] 870 EUR - Superbe studio meublé 22m² avec balcon (None)
+  [123loger] 690 EUR - Beau studio meublé 24m² avec mezzanine (None)
+  [123loger] 700 EUR - Location studio Nice 24 M2 (None)
+  [123loger] 660 EUR - Beau studio meublé 26m² Nice Est (None)
+  [123loger] 750 EUR - Beau 2P 35m2 meublé à Nice de mars à fin mai. (None)
+  [123loger] 750 EUR - Beau studio lumineux 20m² vieux Nice (None)
+  [123loger] 750 EUR - Beau Studio 22m2 dans le carré d'or Nice Centre (None)
+  [123loger] 817 EUR - Beau studio meublé 25m² entièrement équipé (None)
+  [123loger] 750 EUR - Studio meublé à Cimiez au calme sans vis à vis (None)
+[123loger] page 5: 24 ads
+  [123loger] 777 EUR - Petit meublé 24,85m2 T2 à Nice Valrose Université (None)
+  [123loger] 750 EUR - Beau studio meublé 23m² avec terrasse (None)
+  [123loger] 750 EUR - Beau studio meublé refait de 28m² avec balcon 4m² (None)
+  [123loger] 850 EUR - Beau studio 20m² de Décembre 2024 à fin avril 2025 (None)
+  [123loger] 850 EUR - Havre de Paix (None)
+  [123loger] 690 EUR - Nice centre Madeleine 18m² niveau Super U (None)
+  [123loger] 870 EUR - Beau studio meublé 20m² dispo 1er janvier/31 mai (None)
+[123loger] page 6: 24 ads
+  [123loger] 895 EUR - Beau studio NEUF avec terrasse NICE LANTERNE (None)
+  [123loger] 900 EUR - NICE SAINT-ROCH 2 P MEUBLÉ AVEC LOGGIA ET CAVE (None)
+  [123loger] 822 EUR - Location studio Cimiez (None)
+  [123loger] 900 EUR - Apparement Studio Nice Fabron meublé avec balcon (None)
+  [123loger] 780 EUR - Studio étudiant ou bail mobilité rénové (None)
+[123loger] page 7: 17 ads
+  [123loger] 730 EUR - Studio type F1 calme près fac valrose (None)
+  [123loger] 900 EUR - Petit 2 pièces meublé (None)
+  [123loger] 800 EUR - Deux pièces à Libération (bail mobilité) (None)
+  [123loger] 743 EUR - Appartement 2 pièces, proche coulée verte. (None)
+  [123loger] 630 EUR - Appartement Nice pour étudiants (None)
+  [123loger] 800 EUR - Appartement 2 pièces | Haut du Boulevard Gambetta (None)
+  [123loger] 770 EUR - T2 meublé, calme et lumineux (None)
+  [123loger] 490 EUR - A louer studio meuble 17m² (None)
+[123loger] page 8: 24 ads
+  [123loger] 530 EUR - Studio à louer (None)
+  [123loger] 550 EUR - Studio au calme proche villa Arson (None)
+  [123loger] 500 EUR - Studio Nice (None)
+  [123loger] 880 EUR - 2 pièces 27m2 meublé (None)
+  [123loger] 690 EUR - Studio meublé à Nice pour étudiant (None)
+  [123loger] 640 EUR - Studio meublé passage à niveau Gambetta (None)
+  [123loger] 775 EUR - Très grand studio meublé Nice (None)
+  [123loger] 750 EUR - Studio meuble Promenade des Anglais (None)
+  [123loger] 550 EUR - Beau studio extra charme (None)
+  [123loger] 500 EUR - Appartement Cimiez-Pasteur (None)
+  [123loger] 900 EUR - 2 pieces à louer Nice nord (None)
+  [123loger] 630 EUR - Nice plein centre - Studio meublé équipé (None)
+  [123loger] 620 EUR - Studio nice pasteur (None)
+  [123loger] 850 EUR - Location appartement meublé 1 pièce 35 m² à Nice (None)
+  [123loger] 600 EUR - Loc studio vernier (None)
+  [123loger] 670 EUR - T1 avec mezzanine – Meublé et équipé – Proche tram (None)
+  [123loger] 708 EUR - T2 29 m2 meulé avec Terrasse (None)
+  [123loger] 675 EUR - Studio 31 M2 la madeleine (None)
+  [123loger] 740 EUR - Studio tout équipé (None)
+  [123loger] 780 EUR - Studio étudiant Nice-Etoile (None)
+[123loger] page 9: 24 ads
+  [123loger] 600 EUR - Location étudiants (None)
+  [123loger] 700 EUR - Studio meuble étudiant Fabron (None)
+  [123loger] 650 EUR - Loue studio pour étudiant (None)
+  [123loger] 850 EUR - Appartement étudiant à louer (None)
+  [123loger] 750 EUR - Location deux pièces (None)
+  [123loger] 600 EUR - Studio + internet pour étudiant (None)
+  [123loger] 730 EUR - Location studio meublé (None)
+  [123loger] 800 EUR - Appartement balcon + garage (None)
+  [123loger] 715 EUR - Studio à louer à Nice centre, balcon + clim (None)
+  [123loger] 900 EUR - Beau T2 à Nice (None)
+  [123loger] 750 EUR - Location, étudiant, vieille ville (None)
+  [123loger] 700 EUR - Studio Nice Fabron Residence piscine très calme (None)
+  [123loger] 750 EUR - Studio à louer Nice 33 m2 en excellent état (None)
+  [123loger] 580 EUR - Beau Studio meublé 32m2 Pasteur 580 euros (None)
+  [123loger] 700 EUR - Location studio (None)
+  [123loger] 800 EUR - Central, beau Studio (F1 35m2) meublé, très lumi (None)
+  [123loger] 595 EUR - Studio meublé pour étudiants (None)
+  [123loger] 650 EUR - Appartement rénové. Nice quartier du Port : AVENUE (None)
+  [123loger] 750 EUR - Studio nice Cimiez (None)
+  [123loger] 720 EUR - Location étudiant (None)
+[123loger] page 10: 24 ads
+  [123loger] 890 EUR - Appartement refait à neuf et entièrement équipé (None)
+  [123loger] 750 EUR - Magnan/ Promenade des Anglais - Studio meublé (None)
+  [123loger] 760 EUR - LOUE STUDIO 26m2 AVEC PARKING (None)
+  [123loger] 700 EUR - Studio calme (None)
+  [123loger] 850 EUR - Loue F2 de 33m2 meublé (None)
+  [123loger] 800 EUR - Studio meublé Valrose (None)
+  [123loger] 700 EUR - Studio meublé étudiant rénové 2025 – Calme absolu (None)
+  [123loger] 600 EUR - 4. Location étudiant 19 m² – Nice Magnan (None)
+  [123loger] 830 EUR - Location Studio 30m2 (None)
+  [123loger] 735 EUR - Loue T2 bas de Gairaut dans immeuble classé (None)
+  [123loger] 768 EUR - Studio premium Pour ÉTUDIANT(E) (None)
+  [123loger] 610 EUR - Studio Parc Phoenix disponible immédiatement (None)
+  [123loger] 900 EUR - Location meublée T2 (None)
+  [123loger] 550 EUR - Apparte T1 meublé de 25m² à louer à Nice, 1 étage (None)
+  [123loger] 750 EUR - Riquier studio meublé rénové (None)
+  [123loger] 700 EUR - Studio pour étudiant - Port de Nice (None)
+[123loger] page 11: 24 ads
+  [123loger] 870 EUR - 2 pièces à louer meublé (None)
+  [123loger] 755 EUR - Location T1 Etudiant (None)
+  [123loger] 670 EUR - Studio 27 m2 fac de lettre (None)
+  [123loger] 770 EUR - F1 à louer étudiant uniquement (None)
+  [123loger] 700 EUR - Studio à louer sur Nice (None)
+  [123loger] 900 EUR - Nice Liberation, beau studio tout confort au calme (None)
+  [123loger] 645 EUR - Superbe studio 34m2 à Nice (None)
+  [123loger] 760 EUR - Bail etudiant 2pièces meublé 25m2 renové (None)
+  [123loger] 450 EUR - Studette pour étudiant centre de Nice (None)
+  [123loger] 550 EUR - Particulier loue studio meuble bornala (None)
+  [123loger] 560 EUR - Studio neuf avec terrasse Borriglione / Valrose (None)
+  [123loger] 620 EUR - Studio meublé 18m² - Nice – Calme sur cour (None)
+  [123loger] 700 EUR - Studio rénové plein Centre Nice (None)
+  [123loger] 650 EUR - Chambres dispo dans Colocation Nice/Libération (None)
+  [123loger] 850 EUR - Appartement F1 38 m2 (None)
+  [123loger] 690 EUR - Nice Fabron beau studio meublé piscine - tennis (None)
+[123loger] page 12: 24 ads
+  [123loger] 801 EUR - Studio entre Opéra et Cours Saleya (None)
+  [123loger] 680 EUR - Studio Nice proche Bd Gambetta (None)
+  [123loger] 760 EUR - Studio étudiant Nice proche Valrose (None)
+  [123loger] 690 EUR - Superbe studio Valrose meublé 20m2 à Nice (None)
+  [123loger] 880 EUR - Studio étudiant avec terrasse quartier Magnan (None)
+  [123loger] 750 EUR - Location studio Gare du Sud (None)
+  [123loger] 650 EUR - Chambre dans une colocation 130 m² Nice (None)
+  [123loger] 670 EUR - Studio meublé tout équipé 23m2 (None)
+  [123loger] 625 EUR - Studio meublé Nice Ouest (None)
+  [123loger] 810 EUR - Loue superbe studio à Nice centre et mer (None)
+  [123loger] 745 EUR - Location meublée appartement 2 pièces 23 m² (None)
+  [123loger] 900 EUR - BEAU STUDIO 24 M2 RENOVE (None)
+  [123loger] 900 EUR - Beau T2 meublé proche de la plage Carras (None)
+  [123loger] 790 EUR - Studio 24m2 Bail étudiant Nice ouest (None)
+[123loger] page 13: 24 ads
+  [123loger] 650 EUR - Studio 1 pièce de 34m2 (None)
+  [123loger] 680 EUR - A louer studio a 3 minutes a pieds des plages (None)
+  [123loger] 710 EUR - Studio T1 plein centre de Nice (None)
+  [123loger] 690 EUR - Appartement meublé à louer (None)
+  [123loger] 800 EUR - Nice place Mozart T2 meublé (None)
+  [123loger] 680 EUR - A louer studio a 3 minutes a pieds des plages (None)
+  [123loger] 680 EUR - Beau studio meublé 30m² avec balcon (None)
+  [123loger] 570 EUR - Colocation 1 chambre Nice centre (None)
+  [123loger] 750 EUR - Studette dans l’hôtel le Negresco (None)
+  [123loger] 560 EUR - Studio de nov à juin sur Nice (None)
+  [123loger] 900 EUR - Appartement meublé typique quartier des fleurs (None)
+  [123loger] 710 EUR - Coquet F1 meublé près faculté Valrose (None)
+  [123loger] 850 EUR - Studio meublé refait à neuf terrasse centre ville (None)
+  [123loger] 690 EUR - NICE GALLIENI BAIL MOBILITESTUDIO 23 M2 (None)
+  [123loger] 850 EUR - LOUE NICE STUDIO 24 m2 (None)
+  [http] failed https://www.123loger.com/location/nice-06000/appartement/?page=14: HTTP Error 404: Not Found
+[done] wrote /Users/hadykamel/nice-apartments/data/listings.json: 430 listings {'LocService': 64, "Bien'ici": 189, '123 Loger': 182}, 141 near centre/promenade, 208 with coordinates

@@ -1,0 +1,849 @@
+[zone] Nice -> ['-170100']
+[bienici] page 1: +24 (total 189)
+[bienici] page 2: +24 (total 189)
+[bienici] page 3: +24 (total 189)
+[bienici] page 4: +24 (total 189)
+[bienici] page 5: +24 (total 189)
+[bienici] page 6: +24 (total 189)
+[bienici] page 7: +24 (total 189)
+[bienici] page 8: +21 (total 189)
+[bienici] 189 unique listings <= 900 EUR
+  [1/189] 450 EUR - CIMIEZ - Chambre meublée avec coin cuisine
+  [2/189] 474 EUR - A louer NICE studio meublé centre/cimiez
+  [3/189] 480 EUR - Nice-ouest / Bas Fabron - Chambre à louer en colocation
+  [4/189] 505 EUR - Studio
+  [5/189] 510 EUR - À LOUER NICE – VIEUX-NICE / PRÉFECTURE – STUDIO 19 M² -
+  [6/189] 532.99 EUR - CESSOLE STUDIO MEUBLÉ
+  [7/189] 545 EUR - Appartement 1 pièce 19 m², Nice - 545 €
+  [8/189] 548 EUR - Appartement meublé 1 pièce 11 m², Nice - 548 €
+  [9/189] 550 EUR - STUDIO - LIBERATION GAMBETTA
+  [10/189] 550 EUR - Nice-ouest / Avenue Saint Augustin - Chambre en colocat
+  [11/189] 555 EUR - T1
+  [12/189] 585 EUR - Studio
+  [13/189] 590 EUR - LOCATION MEUBLEE STUDIO A PARTIR DU 1er DECEMBRE 2025
+  [14/189] 590 EUR - Chambre de 12m² avec terrasse commune de 15m²
+  [15/189] 595 EUR - Co-location à Nice (06300)
+  [16/189] 595 EUR - CHAMBRE COLOCATION - NICE ARENAS PARC PHENIX
+  [17/189] 600 EUR - Studio vide
+  [18/189] 601 EUR - COLOCATION - Chambre + Salle d'eau privative Nice 13,24
+  [19/189] 610 EUR - Studio proche tnl
+  [20/189] 620 EUR - Fac de science studio vide calme
+  [21/189] 633 EUR - Location studio meublé 14.68m2 secteur Garibaldi
+  [22/189] 640 EUR - STUDIO MEUBLE Nice centre
+  [23/189] 641 EUR - Nice Est - Studio en rez-de-jardin
+  [24/189] 645 EUR - Studio meublé 20 m², Nice - 645 €
+  [25/189] 650 EUR - À louer Chambre en COLOCATION Bas de villa T4 avec cour
+  [26/189] 650 EUR - COLOCATION - BD DE LA MADELEINE
+  [27/189] 650 EUR - STUDIO MEUBLE - 1 RUE FULCONIS - NICE PASTEUR
+  [28/189] 650 EUR - COLOCATION - UNE CHAMBRE PROCHE CARLONE
+  [29/189] 650 EUR - NICE Centre - Place GARIBALDI STUDIO MEUBLE
+  [30/189] 650 EUR - Appartement Nice - STUDIO Meublé
+  [31/189] 660 EUR - Nice ouest studio balcon
+  [32/189] 670 EUR - NICE REPUBLIQUE - Proche faculté
+  [33/189] 674 EUR - BAIL ETUDANT UNIQUEMENT - DUPLEX - RUE DE FRANCE
+  [34/189] 676 EUR - MAXTER Buffa - DISPONIBLE IMMEDIATEMENT
+  [35/189] 680 EUR - T2
+  [36/189] 680 EUR - LOCATION MEUBLEE STUDIO MEUBLE RENOVE - CALME - TERRASS
+  [37/189] 680 EUR - Appartement meublé 1 pièce 14 m², Nice - 680 €
+  [38/189] 680 EUR - Appartement meublé 1 pièce 9 m², Nice - 680 €
+  [39/189] 684.84 EUR - A LOUER - AU COEUR DE RIQUIER - MAGNIFIQUE STUDIO MEUBL
+  [40/189] 690 EUR - Studio de 32 m² - Nice - Meublé
+  [41/189] 690 EUR - STUDIO MEUBLE - 20 BD ARMEE DES ALPES - DEBUT SAINT ROC
+  [42/189] 690 EUR - NICE EST, Boulevard Carnot, nous vous proposons ce joli
+  [43/189] 690 EUR - Coulée Verte
+  [44/189] 690 EUR - NICE CENTRE - STUDIO MEUBLE - AVENUE DURANTE
+  [45/189] 690 EUR - Chambre avec salle de bain privative
+  [46/189] 693 EUR - LOCATION MEUBLEE - RUE DE FRANCE
+  [47/189] 695 EUR - Riquier - Delfino
+  [48/189] 695 EUR - STUDIO MEUBLE - 2 RUE FRANCOIS GUISOL - NICE PORT
+  [49/189] 695 EUR - 2 PIECES VIDE - 19 JOSEPH GARNIER - LIBERATION
+  [50/189] 695 EUR - NICE CARRE D'OR - RUE BERLIOZ - STUDIO MEUBLE - REFAIT 
+  [51/189] 699.11 EUR - Appartement 1 pièce 25 m², Nice - 699 €
+  [52/189] 700 EUR - Chambre meublée en colocation dans un T4 de 81 m² – Nic
+  [53/189] 700 EUR - T3
+  [54/189] 700 EUR - T3
+  [55/189] 700 EUR - STUDIO - AVENUE EMILE BIECKERT
+  [56/189] 700 EUR - NICE - STUDIO 21m2 - PROMENADES DES ANGLAIS
+  [57/189] 700 EUR - Studio meublé Valrose
+  [58/189] 700 EUR - LOCATION NICE SAINT AUGUSTIN
+  [59/189] 700 EUR - Appartement meublé 1 pièce 15 m², Nice - 700 €
+  [60/189] 700 EUR - CHAMBRE - avec accès terrasse et jardin
+  [61/189] 700 EUR - Chambre avec accès piscine sur le jardin
+  [62/189] 705.24 EUR - APPARTEMENT A LOUER : NICE PORT - RIQUIER - STUDIO MEUB
+  [63/189] 720 EUR - Nice - Valrose - COLOCATIONS Chambres meublées
+  [64/189] 720 EUR - Charmant F1bis avec terrasse vue mer & emplacement idéa
+  [65/189] 720 EUR - Pasteur studio balcon
+  [66/189] 720 EUR - NICE,- LOCATION MEUBLEE PROCHE LIBERATION
+  [67/189] 720 EUR - Studio Carré d'Or
+  [68/189] 720 EUR - Appartement meublé 1 pièce 16 m², Nice - 720 €
+  [69/189] 720 EUR - Nice - QUARTIER POETES
+  [70/189] 720 EUR - NICE CENTRE VILLE - RUE JACQUES GUIDONI - REZ DE CHAUSS
+  [71/189] 730 EUR - NICE RIQUIER - Grande chambre
+  [72/189] 730.48 EUR - Magnifique T2 meublé dans le centre de Nice
+  [73/189] 731 EUR - NICE: STUDIO NICE NORD
+  [74/189] 740 EUR - NICE - CIMIEZ - STUDIO AVEC COIN NUIT - 33 m2 - CAVE - 
+  [75/189] 740 EUR - STUDIO VIDE
+  [76/189] 740 EUR - Studio
+  [77/189] 740 EUR - Studio
+  [78/189] 750 EUR - Libération : 3 pieces en colocation
+  [79/189] 750 EUR - F1 de 30m² entièrement rénové à Nice
+  [80/189] 750 EUR - Nice Saint Roch - F2 meublé en duplex + terrasse - 28.1
+  [81/189] 750 EUR - F1 de 26m² avec terrasse de 9m²
+  [82/189] 750 EUR - LOCATION MEUBLE - 31 RUE DE LA FONTAINE - NICE RIQUIER
+  [83/189] 750 EUR - Nice Saint Roch - Studio meublé + balcon - 24.80m²
+  [84/189] 750 EUR - ANTONA - DISPONIBLE IMMEDIATEMENT
+  [85/189] 750 EUR - Appartement 1 pièce 15 m², Nice - 750 €
+  [86/189] 750 EUR - Chambre meublée à Nice Nord, à proximité de Valrose
+  [87/189] 751 EUR - NICE - GORBELLA -- STUDIO DE 39m2 - TERRASSE
+  [88/189] 755 EUR - Appartement T1 meublé à louer à Nice Sainte-Marguerite,
+  [89/189] 755 EUR - STUDIO MEUBLE BORNALA
+  [90/189] 758 EUR - Location Nice, studio meublé 25.84m² situé proche TNL
+  [91/189] 760 EUR - À LOUER NICE – LIBÉRATION / JOSEPH-GARNIER – 2 PIÈCES M
+  [92/189] 760 EUR - T1
+  [93/189] 765 EUR - Nice Est Studio de 30 m² avec balcon, cave et parking c
+  [94/189] 765 EUR - Location meublée longue durée
+  [95/189] 775 EUR - Studio avec balcon proche centre ville
+  [96/189] 777 EUR - NICE Ouest - ABBAYE DE ROSELAND - BEAU STUDIO - MEUBLE 
+  [97/189] 780 EUR - Beau studio vide
+  [98/189] 780 EUR - CENTRE VILLE/GEORGES CLEMENCEAU
+  [99/189] 780 EUR - FABRON - STUDIO A LOUER - PARKING - TERRASSE - CAVE
+  [100/189] 785 EUR - Location grand studio 33 m2 Nice Parc Impérial
+  [101/189] 789 EUR - Appartement meublé 1 pièce 23 m², Nice - 789 €
+  [102/189] 790 EUR - Location longue durée Grand studio Nice Cimiez Valrose
+  [103/189] 790 EUR - Appartement 2 pièces 35 m², Nice - 790 €
+  [104/189] 790 EUR - Studio Proche Libération
+  [105/189] 790 EUR - Studio de 23m² avec terrasse
+  [106/189] 790 EUR - Studio meublé avec terrasse + piscine
+  [107/189] 790 EUR - Appartement meublé 1 pièce 18 m², Nice - 790 €
+  [108/189] 793 EUR - Appartement à louer NICE
+  [109/189] 795 EUR - A LOUER 2PIECES UNIQUEMENT POUR ETUDIANT
+  [110/189] 795 EUR - Appartement à louer Nice
+  [111/189] 795 EUR - St Jean d'Angely - studio meublé 20,45 m² - balcon
+  [112/189] 800 EUR - Studio climatisé au calme – Centre-ville de Nice
+  [113/189] 800 EUR - Studio de 20m² avec balcon
+  [114/189] 800 EUR - Nice Gambetta - Studio avec coin nuit neuf
+  [115/189] 800 EUR - Studio avec vue sur les toits de Nice
+  [116/189] 805 EUR - NICE - LE PORT
+  [117/189] 810 EUR - À LOUER NICE – VIEUX-NICE / RUE DU COLLET – 2 PIÈCES ME
+  [118/189] 810 EUR - AV DES PINS NICE OUEST PROCHA ARENAS, studio vide 30m2 
+  [119/189] 810 EUR - A LOUER STUDIO MEUBLE NICE NORD
+  [120/189] 811 EUR - 2 PIECES MEUBLES - PROCHE FACULTE - BAIL DE SEPTEMBRE A
+  [121/189] 813 EUR - T2
+  [122/189] 815 EUR - NICE - REPUBLIQUE - 2 PIECES MEUBLE - TERRASSE
+  [123/189] 820 EUR - Studio Carabacel - 33,07m2
+  [124/189] 820 EUR - Deux pièces à côté de Nice étoile
+  [125/189] 820 EUR - NICE E.Scoffier - T1/2 MEUBLE + Terrasse
+  [126/189] 825 EUR - 2pièces meublé etudiant terrasse
+  [127/189] 825 EUR - F1 MEUBLE BAIL ETUDIANT 9 MOIS
+  [128/189] 826 EUR - 2 PIECES VIEUX NICE
+  [129/189] 830 EUR - Appartement meublé 2 pièces 32 m², Nice - 830 €
+  [130/189] 830 EUR - 2 PIECES MEUBLE - CARRAS
+  [131/189] 830 EUR - Deux pièces avec balcon et jardin
+  [132/189] 830 EUR - Appartement 1 pièce 25 m², Nice - 830 €
+  [133/189] 830 EUR - NICE CENTRE - 42 AVENUE MARECHAL FOCH - STUDIO AVEC MEZ
+  [134/189] 834 EUR - Musiciens, Verdi 2 pièces avec balcon
+  [135/189] 835 EUR - À LOUER – STUDIO MEUBLÉ MANSARDÉ – RUE DEFLY, NICE
+  [136/189] 840 EUR - F1 - NICE CARRÉ D'OR GRAND HOTEL
+  [137/189] 840 EUR - NICE - BAS CIMIEZ - GRAND STUDIO - TERRASSE VUE MER
+  [138/189] 850 EUR - Appartement 2 pièces 40 m², Nice - 850 €
+  [139/189] 850 EUR - Appartement 1 pièce 37 m², Nice - 850 €
+  [140/189] 850 EUR - NICE: STUDIO ST MARGUERITE
+  [141/189] 850 EUR - Charmant studio climatisé à Vernier - Nice
+  [142/189] 850 EUR - Appartement meublé 1 pièce 28 m², Nice - 850 €
+  [143/189] 850 EUR - NICE Le Port Studio 25m² Meublé balcon vue mer
+  [144/189] 850 EUR - Studio avec balcon - Les Musiciens
+  [145/189] 850 EUR - Nouveauté à louer Appartement Nice -gare-av auber -1 pi
+  [146/189] 850 EUR - Location étudiante de sept à juin - Appartement T1 à lo
+  [147/189] 850 EUR - NICE: STUDIO RUE MIRON
+  [148/189] 850 EUR - STUDIO - BALCON - PLEIN SUD
+  [149/189] 850 EUR - STUDIO CENTRE VILLE
+  [150/189] 860 EUR - Appartement meublé 2 pièces 37 m², Nice - 860 €
+  [151/189] 865 EUR - CAFARELLI /FLEURS/ GAMBETTA LIBRE RAPIDEMENT
+  [152/189] 867 EUR - Appartement au calme avec grande terrasse – 55 rue Augu
+  [153/189] 870 EUR - 2 PIECES AVEC TERRASSE
+  [154/189] 871.05 EUR - NICE BAUMETTES - Appartement Nice 2 pièces de 35 m2 - m
+  [155/189] 876 EUR - F2 MEUBLE - VIEUX NICE
+  [156/189] 877 EUR - STUDIO ETUDIANT - Vieux Nice
+  [157/189] 880 EUR - NICE - GRAND STUDIO / F1 A QUELQUES MINUTES DU CENTRE V
+  [158/189] 880 EUR - Appartement - 5ème étage - 40 m2 - 2 pièces - Non meubl
+  [159/189] 880 EUR - Location étudiante jusqu'à 30 juin
+  [160/189] 880 EUR - Superbe studio de 31m² dans une résidence avec piscine
+  [161/189] 885 EUR - Appartement 2 pièces 42 m², Nice - 885 €
+  [162/189] 886.25 EUR - Appartement 2 pièces 40 m², Nice - 886 €
+  [163/189] 890 EUR - NICE NORD Location 2 pièce MEUBLE - Av St Lambert - Qua
+  [164/189] 890 EUR - MAGNAN - A LOUER 2 PIECES RENOVE MEUBLE ET TRAVERSANT 4
+  [165/189] 890 EUR - Appartement Nice 2 pièces 38 m2 au port
+  [166/189] 890 EUR - DELFINO - 2P - MEUBLE
+  [167/189] 890 EUR - 2 pièces - Nice Baumettes
+  [168/189] 890 EUR - PLACE MARSHALL 2 PIECES
+  [169/189] 890 EUR - Studio meublé - Port de Nice
+  [170/189] 890 EUR - APPARTEMENT MEUBLÉ AVEC TERRASSE – NICE SAINTE-MARGUERI
+  [171/189] 890 EUR - Location Studio meublé - Corniche Fleurie
+  [172/189] 890 EUR - A louer sur Nice centre ville 1 pièce(s) 17.3 m2 avec m
+  [173/189] 892 EUR - Studio - Nice Nord Chambrun
+  [174/189] 894.26 EUR - Appartement 2 pièces 41 m², Nice - 894 €
+  [175/189] 895 EUR - Deux pièces rue de France Nice
+  [176/189] 895 EUR - Nice – Promenade des Anglais – 2 pièces meublé vue mer 
+  [177/189] 897.32 EUR - Appartement Nice 2 pièce(s) 37.05 m2
+  [178/189] 899.22 EUR - Appartement 2 pièces 46 m², Nice - 899 €
+  [179/189] 900 EUR - NICE CENTRE - RUE PASTORELLI - TERRASSE
+  [180/189] 900 EUR - Appartement 2 pièces 38 m², Nice - 900 €
+  [181/189] 900 EUR - APPARTEMENT 2 PIECES MEUBLE - 88 BOULEVARD CESSOLE - NI
+  [182/189] 900 EUR - APPARTEMENT 2 PIECES - 88 BOULEVARD CESSOLE - NICE NORD
+  [183/189] 900 EUR - 2 PIECES ETUDIANT - 12 FRANCOIS GUISOL - NICE PORT
+  [184/189] 900 EUR - Location appartement 2 Pièce(s)
+  [185/189] 900 EUR - Appartement T1 MEUBLE 31.81M² - A LOUER - RIQUIER
+  [186/189] 900 EUR - Nice Borriglione - F2 vide en duplex + terrasse - 31.18
+  [187/189] 900 EUR - A LOUER 1 PIECE AVEC PARKING
+  [188/189] 900 EUR - Port de Nice - studio de 26 M2 meublé - à louer
+  [189/189] 900 EUR - Triplex location Nice
+[locservice] page 1: 24 flats <= 900 EUR
+  [locservice] 700 EUR - Appartement meublé à Nice (None)
+  [locservice] 780 EUR - Studio meublé à Nice (None)
+  [locservice] 650 EUR - Studio meublé à Nice (geocoded: rue bonaparte)
+  [locservice] 640 EUR - Appartement à Nice (quartier: cessole)
+  [locservice] 460 EUR - Studio meublé à Nice (quartier: médecin)
+  [locservice] 610 EUR - Studio meublé à Nice (None)
+  [locservice] 750 EUR - Appartement meublé à Nice (quartier: libération)
+  [locservice] 900 EUR - Appartement meublé à Nice (quartier: libération)
+  [locservice] 760 EUR - Studio meublé à Nice (None)
+  [locservice] 690 EUR - Studio meublé à Nice (quartier: californie)
+  [locservice] 690 EUR - Studio meublé à Nice (quartier: cimiez)
+  [locservice] 763 EUR - Appartement meublé à Nice (None)
+  [locservice] 849 EUR - Appartement meublé à Nice (None)
+  [locservice] 700 EUR - Chambre meublée à Nice (quartier: pasteur)
+  [locservice] 900 EUR - Appartement meublé à Nice (None)
+  [locservice] 670 EUR - Studio meublé à Nice (quartier: madeleine)
+  [locservice] 700 EUR - Studio à Nice (quartier: medecin)
+  [locservice] 850 EUR - Studio meublé à Nice (quartier: centre-ville)
+  [locservice] 680 EUR - Studio meublé à Nice (None)
+  [locservice] 770 EUR - Studio meublé à Nice (quartier: centre ville)
+  [locservice] 620 EUR - Studio à Nice (None)
+  [locservice] 650 EUR - Studio meublé à Nice (quartier: libération)
+  [locservice] 830 EUR - Studio meublé à Nice (quartier: centre ville)
+  [locservice] 850 EUR - Appartement meublé à Nice (quartier: vieux-nice)
+[locservice] page 2: 15 flats <= 900 EUR
+  [locservice] 760 EUR - Appartement meublé à Nice (quartier: centre-ville)
+  [locservice] 720 EUR - Studio meublé à Nice (quartier: vieux nice)
+  [locservice] 700 EUR - Studio meublé à Nice (quartier: massena)
+  [locservice] 550 EUR - Chambre meublée à Nice (quartier: libération)
+  [locservice] 780 EUR - Chambre meublée à Nice (None)
+  [locservice] 800 EUR - Chambre meublée à Nice (quartier: carras)
+  [locservice] 800 EUR - Studio à Nice (None)
+  [locservice] 900 EUR - Studio meublé à Nice (None)
+  [locservice] 860 EUR - Studio meublé à Nice (quartier: musicien)
+  [locservice] 840 EUR - Chambre meublée à Nice (None)
+  [locservice] 900 EUR - Studio meublé à Nice (quartier: riquier)
+  [locservice] 750 EUR - Appartement meublé à Nice (None)
+  [locservice] 900 EUR - Studio meublé à Nice (quartier: parc impérial)
+  [locservice] 900 EUR - Chambre meublée à Nice (quartier: valrose)
+  [locservice] 660 EUR - Chambre meublée à Nice (None)
+[locservice] page 3: 24 flats <= 900 EUR
+  [locservice] 700 EUR - Appartement à Nice (None)
+  [locservice] 690 EUR - Studio meublé à Nice (None)
+  [locservice] 850 EUR - Studio meublé à Nice (quartier: centre-ville)
+  [locservice] 820 EUR - Studio à Nice (quartier: cessole)
+  [locservice] 600 EUR - Appartement meublé à Nice (quartier: centre ville)
+  [locservice] 900 EUR - Appartement meublé à Nice (quartier: carré d'or)
+  [locservice] 840 EUR - Appartement meublé à Nice (quartier: cessole)
+  [locservice] 900 EUR - Studio meublé à Nice (None)
+  [locservice] 900 EUR - Chambre meublée à Nice (None)
+  [locservice] 900 EUR - Chambre meublée à Nice (None)
+  [locservice] 820 EUR - Studio meublé à Nice (quartier: thiers)
+  [locservice] 615 EUR - Studio meublé à Nice (quartier: médecin)
+  [locservice] 650 EUR - Appartement meublé à Nice (quartier: médecin)
+  [locservice] 750 EUR - Studio meublé à Nice (None)
+  [locservice] 770 EUR - Appartement meublé à Nice (quartier: port de nice)
+  [locservice] 599 EUR - Chambre meublée à Nice (quartier: centre ville)
+  [locservice] 855 EUR - Studio meublé à Nice (quartier: libération)
+  [locservice] 820 EUR - Studio meublé à Nice (None)
+  [locservice] 620 EUR - Chambre meublée à Nice (None)
+  [locservice] 700 EUR - Chambre meublée à Nice (None)
+  [locservice] 800 EUR - Chambre meublée à Nice (quartier: cimiez)
+  [locservice] 500 EUR - Chambre meublée à Nice (None)
+  [locservice] 850 EUR - Appartement meublé à Nice (None)
+  [locservice] 870 EUR - Studio meublé à Nice (quartier: cessole)
+[locservice] page 4: 1 flats <= 900 EUR
+  [locservice] 497 EUR - Chambre meublée à Nice (quartier: riquier)
+[locservice] page 5: 0 flats <= 900 EUR
+[123loger] page 1: 20 ads
+  [123loger] 620 EUR - Studio refait à neuf, calme avec terrasse (geocoded: avenue de la Bornala)
+  [123loger] 750 EUR - Studio -T1- Centre ville (quartier: centre ville)
+  [123loger] 680 EUR - Joli studio avec terrasse, exposition sud-est (None)
+  [123loger] 860 EUR - Appartement 2 Pièces 40 m² avec terrasse (None)
+  [123loger] 600 EUR - Location studio nice 06000 (None)
+  [123loger] 595 EUR - Studio 31 m2 à Nice (None)
+  [123loger] 500 EUR - Studio 21m2 à Nice (None)
+  [123loger] 700 EUR - Beau studio meublé avec terrasse Bail mobilité (geocoded: avenue des Fleurs)
+  [123loger] 550 EUR - Studio meublé - Proche centre ville Nice (quartier: centre ville)
+  [123loger] 760 EUR - A louer superbe studio meublé nice Ouest Fabron (quartier: fabron)
+  [123loger] 900 EUR - Beau 3P meublé à Nice HENRI SAPPIA à découvrir (None)
+  [123loger] 675 EUR - Beau studio 20m² avec mezzanine meublé et équipé (quartier: thiers)
+  [123loger] 900 EUR - 2 Pièces Nice Rue de France (None)
+  [123loger] 900 EUR - Grand Appartement T2 avec une terrasse (quartier: vieux-nice)
+  [123loger] 750 EUR - 2 pièces 40m2 meublé à Nice (None)
+  [123loger] 450 EUR - Sruid à louer quartier Pessicart à Nice (None)
+  [123loger] 850 EUR - T2 meublé 30m² pour ETUDIANT promenade des anglais (quartier: port de nice)
+[123loger] page 2: 24 ads
+  [123loger] 590 EUR - Studio à Nice (quartier: centre historique)
+  [123loger] 800 EUR - Appartement à 2 pas de la promenade des anglais (geocoded: avenue de la bornala)
+  [123loger] 730 EUR - Beau studio meublé avec terrasse au centre de Nice (geocoded: rue Lamartine)
+  [123loger] 790 EUR - Location meublée appartement 2 pièces 34 m² (quartier: libération)
+  [123loger] 730 EUR - Beau studio 25m2 à Nice (None)
+  [123loger] 480 EUR - Colocation petit immeuble niçois (quartier: le port)
+  [123loger] 545 EUR - Joli studio au coeur de Nice - Quartier dynamique (geocoded: rue Trachel)
+  [123loger] 580 EUR - Beau studio meublé 18m² (étudiant.e) très calme (None)
+  [123loger] 850 EUR - Appartement 2 pièces 42 m² Nice (quartier: vieux nice)
+  [123loger] 730 EUR - Appartement, Nice (quartier: médecin)
+  [123loger] 790 EUR - Beau 2P 42m² ave de la Californie à 50m de la mer (quartier: californie)
+  [123loger] 750 EUR - Studio meublé rénové avec terrasse Bail mobilité (None)
+  [123loger] 580 EUR - Location chambre dans un appartement de 65 m2 (None)
+  [123loger] 699 EUR - SYMPATHIQUE STUDIO 21m² (geocoded: Bd Gorbella)
+  [123loger] 540 EUR - Petit studio très agréable (None)
+  [123loger] 700 EUR - Studio meublé étudiant à Nice (None)
+  [123loger] 700 EUR - Location appartement 2 pièces Nice (quartier: centre-ville)
+  [123loger] 450 EUR - Studette meublée centre Nice pour étudiant (quartier: gambetta)
+[123loger] page 3: 24 ads
+  [123loger] 605 EUR - Studio à Nice tout confort avec climatisation (None)
+  [123loger] 750 EUR - Beau T 1 30m² quartier Riquier (quartier: riquier)
+  [123loger] 825 EUR - Charmant studio à louer à Fabron avec Parking (quartier: fabron)
+  [123loger] 800 EUR - Studio meublé 25m² bail étudiant ou temporaire (None)
+  [123loger] 800 EUR - Beau studio meublé 21m² vue mer -Nice Ouest (None)
+  [123loger] 739 EUR - 2P meublé 24,85m2 plein sud à Nice Valrose (quartier: valrose)
+  [123loger] 720 EUR - Studio meublé à Nice (quartier: riquier)
+  [123loger] 750 EUR - Beau studio meublé 27m² avec Parking + Balcon (None)
+  [123loger] 750 EUR - Charmant studio meublé 19m² +mezzanine proche mer (geocoded: avenue Saint Augustin)
+  [123loger] 880 EUR - Appartement 2 pièces étudiant proche des facs (None)
+  [123loger] 850 EUR - Studio proche Promenade (None)
+  [123loger] 600 EUR - Chambre à louer colocation (quartier: riquier)
+  [123loger] 730 EUR - Beau studio meublé 20m² rénové Nice Est (quartier: lympia)
+  [123loger] 780 EUR - Studio meublé étudiant (geocoded: rue Châteauneuf)
+[123loger] page 4: 24 ads
+  [123loger] 590 EUR - Appartement meublé 50m2 (None)
+  [123loger] 730 EUR - Magnifique studio meublé avec vue 35m2 à Nice (None)
+  [123loger] 750 EUR - Studio meublé rénové avec accès jardin – Étudiants (quartier: valrose)
+  [123loger] 870 EUR - Superbe studio meublé 22m² avec balcon (quartier: masséna)
+  [123loger] 690 EUR - Beau studio meublé 24m² avec mezzanine (None)
+  [123loger] 700 EUR - Location studio Nice 24 M2 (None)
+  [123loger] 660 EUR - Beau studio meublé 26m² Nice Est (None)
+  [123loger] 750 EUR - Beau 2P 35m2 meublé à Nice de mars à fin mai. (None)
+  [123loger] 750 EUR - Beau studio lumineux 20m² vieux Nice (quartier: vieux nice)
+  [123loger] 750 EUR - Beau Studio 22m2 dans le carré d'or Nice Centre (quartier: carré d'or)
+  [123loger] 817 EUR - Beau studio meublé 25m² entièrement équipé (None)
+  [123loger] 750 EUR - Studio meublé à Cimiez au calme sans vis à vis (quartier: cimiez)
+[123loger] page 5: 24 ads
+  [123loger] 777 EUR - Petit meublé 24,85m2 T2 à Nice Valrose Université (quartier: valrose)
+  [123loger] 750 EUR - Beau studio meublé 23m² avec terrasse (None)
+  [123loger] 750 EUR - Beau studio meublé refait de 28m² avec balcon 4m² (quartier: centre ville)
+  [123loger] 850 EUR - Beau studio 20m² de Décembre 2024 à fin avril 2025 (quartier: centre-ville)
+  [123loger] 850 EUR - Havre de Paix (quartier: port de nice)
+  [123loger] 690 EUR - Nice centre Madeleine 18m² niveau Super U (quartier: madeleine)
+  [123loger] 870 EUR - Beau studio meublé 20m² dispo 1er janvier/31 mai (quartier: vieux nice)
+[123loger] page 6: 24 ads
+  [123loger] 895 EUR - Beau studio NEUF avec terrasse NICE LANTERNE (None)
+  [123loger] 900 EUR - NICE SAINT-ROCH 2 P MEUBLÉ AVEC LOGGIA ET CAVE (quartier: saint-roch)
+  [123loger] 822 EUR - Location studio Cimiez (quartier: cimiez)
+  [123loger] 900 EUR - Apparement Studio Nice Fabron meublé avec balcon (quartier: fabron)
+  [123loger] 780 EUR - Studio étudiant ou bail mobilité rénové (quartier: centre-ville)
+[123loger] page 7: 17 ads
+  [123loger] 730 EUR - Studio type F1 calme près fac valrose (quartier: borriglione)
+  [123loger] 900 EUR - Petit 2 pièces meublé (None)
+  [123loger] 800 EUR - Deux pièces à Libération (bail mobilité) (quartier: libération)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/68b552ef6239/5c108b2504b5e840f5111939fbcaad9b.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/68b552ef6239/e8e82a5eb833fc083a7f384575d19716.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/68b552ef6239/2f51ff4a573796d077e27d493234ba2d.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/68b552ef6239/9901ce1509057688782a485a784f74d1.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/68b552ef6239/10d547b0dbaef3f65aeb00b42eafb3b6.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/68b552ef6239/ee53b05f42fed772682915074ed9eb77.webp: HTTP Error 404: Not Found
+  [123loger] 743 EUR - Appartement 2 pièces, proche coulée verte. (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695fcbaad9af/eb902713d8b429e0dd4814cbeeac18c8.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695fcbaad9af/be57f74da952fe5de3f1cb9900b2a2aa.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695fcbaad9af/a845fb3657a1957ecd8d5367c8bb9323.webp: HTTP Error 404: Not Found
+  [123loger] 630 EUR - Appartement Nice pour étudiants (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/698b3b97a3b5/da6274fbaf0fee99b1a8707fc92b6283.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/698b3b97a3b5/c9fdfe6d8e47642ce633586cf8930af5.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/698b3b97a3b5/6ce6a54916d280d0a8c4cc194d837743.webp: HTTP Error 404: Not Found
+  [123loger] 800 EUR - Appartement 2 pièces | Haut du Boulevard Gambetta (quartier: libération)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6973f13dd07e/8e41df68da482150e8f7a06475689ac9.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6973f13dd07e/7cb5d7ac960eebfb299dcf455d674427.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6973f13dd07e/d7666d0b53435921b159d0fa4c55831f.webp: HTTP Error 404: Not Found
+  [123loger] 770 EUR - T2 meublé, calme et lumineux (quartier: pasteur)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a5f7b665026/28eb5167b18468d5689def1ed8fe85e2.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a5f7b665026/da54e9bfb242fa5fc0bcf0c1e8311b22.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a5f7b665026/aa2b4ea1a0caa2cf299ddc2b67b3920b.webp: HTTP Error 404: Not Found
+  [123loger] 490 EUR - A louer studio meuble 17m² (quartier: carabacel)
+[123loger] page 8: 24 ads
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4bb79c181e/00a21f418298fb227de46189ebd37bc0.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4bb79c181e/7a975c0c6cd6f8711a25445fd424d41f.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4bb79c181e/3b69ada2500e0b1e5f7cebe4b1a746ba.webp: HTTP Error 404: Not Found
+  [123loger] 530 EUR - Studio à louer (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/e30d08ea/a4bae78a3deae17a5d0bebff5027c325.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/e30d08ea/7564aa249ea108429eb3440ba5d7ab35.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/e30d08ea/f4f3ada547752c7c35ba78138f23a806.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/e30d08ea/482a7db21f71b9cfba67a5bd673bfcd5.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/e30d08ea/292b9c5bde01f7d7a188e855ae4d69cb.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/e30d08ea/61a2fbc640d5b9e6c6fd712ab5a8d197.webp: HTTP Error 404: Not Found
+  [123loger] 550 EUR - Studio au calme proche villa Arson (quartier: le ray)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a446155604b/22ed744352c58e003fb2d1f4141c1d44.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a446155604b/bbda7858cda6115af7479a6193fcd13c.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a446155604b/f3ad9346512db2227ed2cd7d2ce6f3f2.webp: HTTP Error 404: Not Found
+  [123loger] 500 EUR - Studio Nice (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6970f3a9bb9c/3bf0080a65fdf36189b9fb071fab166a.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6970f3a9bb9c/60d906485ef731f4dd021c8cf4e122b4.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6970f3a9bb9c/c87668e38e33d3c4e9ec3773e310a92c.webp: HTTP Error 404: Not Found
+  [123loger] 880 EUR - 2 pièces 27m2 meublé (quartier: valrose)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/694ff0b26e76/45534a751a8e5023dcca1fbac2b73a85.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/694ff0b26e76/b7e4e48957461350ad45120442797646.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/694ff0b26e76/9c4dac8abba8366a337d697149db0e33.webp: HTTP Error 404: Not Found
+  [123loger] 690 EUR - Studio meublé à Nice pour étudiant (quartier: centre ville)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69610374da05/33fe47765ac2d450933125567f615ec3.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69610374da05/86467526fb4072f7abd42edae6fb1b9e.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69610374da05/88461587f26ed737ec2a78f7287c5a57.webp: HTTP Error 404: Not Found
+  [123loger] 640 EUR - Studio meublé passage à niveau Gambetta (quartier: libération)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/690794af9883/c1840c054c4e7b974a118f6b986125f6.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/690794af9883/2aa51d7a6b711bf048fdd7a68f40eeb6.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/690794af9883/bc68357abd09bdd38262f3351e664ef9.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/690794af9883/3a971e06527a0289c6b1d385dc5d756c.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/690794af9883/067fd85b0d8f5bc7b91a1d335c7b2fb4.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/690794af9883/2977dd162dc3fcb93d56ca8243b0dd2d.webp: HTTP Error 404: Not Found
+  [123loger] 775 EUR - Très grand studio meublé Nice (quartier: gambetta)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695b78dbd975/66c6b9f29e40cbf3d34657cf7bdd30e6.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695b78dbd975/9d166bcd8f48ccc9a30826f3d3caae50.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695b78dbd975/7392d179d6379a241305ad91575c3e44.webp: HTTP Error 404: Not Found
+  [123loger] 750 EUR - Studio meuble Promenade des Anglais (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6973f2976fbe/2f2930fc25b64e51579774332e167ba1.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6973f2976fbe/c35efa2e749e6a9d526cac9585adcf7a.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6973f2976fbe/140f8b0f2cb1f73fc820ca3504ca4346.webp: HTTP Error 404: Not Found
+  [123loger] 550 EUR - Beau studio extra charme (quartier: cessole)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/dc0d9a29/ac55fee9cc82e58635a9436d47ab954d.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/dc0d9a29/84a3e97cb30eea3a6769d2e4a80884ff.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/dc0d9a29/13d165185ce4a685cb233c939c2ca768.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/dc0d9a29/befc3e20865a6ecf207170126649cac5.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/dc0d9a29/797cb84b2cab7653cadf889cc2695f96.webp: HTTP Error 404: Not Found
+  [123loger] 500 EUR - Appartement Cimiez-Pasteur (quartier: cimiez)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69a9e42a4182/3343cbab428fb5b82cd492fcc5f166a1.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69a9e42a4182/20224be9d0bb8a36a879531620d79bc4.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69a9e42a4182/f67f40c8f349f7d8cb93a38d6c836fb9.webp: HTTP Error 404: Not Found
+  [123loger] 900 EUR - 2 pieces à louer Nice nord (geocoded: Chemin des Jarres)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/697514b73482/06d2d6e84cfb90218a6e102e0e59d92f.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/697514b73482/de9cd8942501646446b501939b8b5919.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/697514b73482/d7bc24d4567f97f7b0619a2bf1e1a6bb.webp: HTTP Error 404: Not Found
+  [123loger] 630 EUR - Nice plein centre - Studio meublé équipé (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a43cc163390/40349b19fa5c9fc4a28caec64b0d7b1d.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a43cc163390/667b8ae82474cf9bb1095597f0cf245c.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a43cc163390/ca25b9d6829bfbd386fe1f8133203527.webp: HTTP Error 404: Not Found
+  [123loger] 620 EUR - Studio nice pasteur (quartier: pasteur)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6996d4d72607/ef7812b19922d0ba3b255b071290477f.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6996d4d72607/b1a181da74f28a250ff37351929772f7.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6996d4d72607/18cfdb22770bc8c14feeb56926b44766.webp: HTTP Error 404: Not Found
+  [123loger] 850 EUR - Location appartement meublé 1 pièce 35 m² à Nice (quartier: fabron)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6955619e1750/0c2160b2afc5d65c44b9dde8f881b321.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6955619e1750/49ec20049f9a540da6bb9a3752d304f9.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6955619e1750/5178529497eb322b17c274aefe8ba642.webp: HTTP Error 404: Not Found
+  [123loger] 600 EUR - Loc studio vernier (quartier: liberation)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4cec14920c/581b1d0aa48f70635e0c8c2b868950f2.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4cec14920c/38dd51fe4e80388de6fd3da15b4cbd59.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4cec14920c/d729eb133d8a77a3d7bd35a585c6a579.webp: HTTP Error 404: Not Found
+  [123loger] 670 EUR - T1 avec mezzanine – Meublé et équipé – Proche tram (quartier: acropolis)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a31dc4d48c4/65df433c2139ca56a9ade0c610a676bb.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a31dc4d48c4/31d1fb6c978d9559c680e10ea4020ec7.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a31dc4d48c4/82f9e1c1c67d9b77e7924a91706d391b.webp: HTTP Error 404: Not Found
+  [123loger] 708 EUR - T2 29 m2 meulé avec Terrasse (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4c51bcd5c8/d595c69153200b13a57d200e773744c2.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4c51bcd5c8/fc8e2845847d4308da65406771d9ea69.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4c51bcd5c8/20663392cc1436105f681f80d605bc49.webp: HTTP Error 404: Not Found
+  [123loger] 675 EUR - Studio 31 M2 la madeleine (quartier: madeleine)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a12e176ece6/66116e813bfdb3acc7bbb50f26284907.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a12e176ece6/60f36b4aa834a4fe540973f9d2c480ae.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a12e176ece6/9aaefd4465867dc996deefceafaaba55.webp: HTTP Error 404: Not Found
+  [123loger] 740 EUR - Studio tout équipé (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6972e3599c14/9d56b115e0b94d446b35fbd8a5a86ec5.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6972e3599c14/54ee7f0f9ae224301e454141c7780f20.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6972e3599c14/a0b19c06ea5fb56499d4b78284a682b4.webp: HTTP Error 404: Not Found
+  [123loger] 780 EUR - Studio étudiant Nice-Etoile (quartier: massena)
+[123loger] page 9: 24 ads
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a38562008f7/6ac63adf6a2b215540523901e112faef.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a38562008f7/247e3631c01ece98bfe42933959cf135.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a38562008f7/349e451383f4b51a3f3cfbc174ed6430.webp: HTTP Error 404: Not Found
+  [123loger] 600 EUR - Location étudiants (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69a89e6f7e7b/4a2acf3689f0902eb8c262604579a4a8.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69a89e6f7e7b/d230eaf20d8430757e361e1d94f954fc.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69a89e6f7e7b/cc68f1ea29174b9bfabc03659f78fe9c.webp: HTTP Error 404: Not Found
+  [123loger] 700 EUR - Studio meuble étudiant Fabron (quartier: fabron)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a444ccf8a81/fa32212a454a6f1310b22994281f7633.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a444ccf8a81/e01c9ddbf0a3b21d0cf0512eb78584b4.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a444ccf8a81/7dcf8f3ed856e41199a8b0908ee2ad28.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a444ccf8a81/e8994526ceda08d9910ac226ffafffba.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a444ccf8a81/cabea7db028352b44141c8a02e63aa62.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a444ccf8a81/910f2ac672f643e48770622e0a271d28.webp: HTTP Error 404: Not Found
+  [123loger] 650 EUR - Loue studio pour étudiant (quartier: centre-ville)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4395688cfd/42e15e18fb1742b44e3b57ce358d086c.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4395688cfd/0f477444374b3ea689478f0198730d11.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4395688cfd/d53ba7c6c0f2652afeb61f6a058570d7.webp: HTTP Error 404: Not Found
+  [123loger] 850 EUR - Appartement étudiant à louer (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/ce8a9e8e/11d71ecba3ee6f4f83883f54dbba6703.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/ce8a9e8e/77738969a07ba593dbd6a0da59c31bc0.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/ce8a9e8e/9c7e0a966ed8ec3f714bf25b1b6b4f07.webp: HTTP Error 404: Not Found
+  [123loger] 750 EUR - Location deux pièces (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a31187ddf56/bcd1db548ebbf0c74f6c60c67ecdd090.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a31187ddf56/1115e5d63c57ec4a82c531161b5f22e3.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a31187ddf56/934983e07a579db3cded73ccd6fd8225.webp: HTTP Error 404: Not Found
+  [123loger] 600 EUR - Studio + internet pour étudiant (geocoded: rue Pauline)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2d776a9a7c/5cf67a19a0fdfbb4bd5c1547b2c61670.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2d776a9a7c/75e6966967f58c394987356b7ae04ffe.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2d776a9a7c/340469f6daba53b6b6a2d56aabdd3685.webp: HTTP Error 404: Not Found
+  [123loger] 730 EUR - Location studio meublé (quartier: centre-ville)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/675eabb5f025/2202881707353d45347786e592963a42.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/675eabb5f025/bd555c5fdce9c1f61ed6d1e83ce62773.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/675eabb5f025/4f820ae280163b0449b40460af408bd7.webp: HTTP Error 404: Not Found
+  [123loger] 800 EUR - Appartement balcon + garage (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a02811a39eb/8bbdd19ad7a53ef274285255beac6388.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a02811a39eb/cce578d0261ed40499755aebbd564964.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a02811a39eb/fbea5f35200a623cbd61ed47a969eb36.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a02811a39eb/9737748363d47ee6ad74ea4e9230330b.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a02811a39eb/3afc7ec10fa6dd8b1f5ee2d359016360.webp: HTTP Error 404: Not Found
+  [123loger] 715 EUR - Studio à louer à Nice centre, balcon + clim (quartier: centre ville)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695a9d01e586/656ab0a36a70edcaa1f3ad399ae85e0d.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695a9d01e586/20d8cda996ebd7b759f05295d10db0ff.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695a9d01e586/e201f0e0a70866d1deeb479ad30b5165.webp: HTTP Error 404: Not Found
+  [123loger] 900 EUR - Beau T2 à Nice (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6999ac5e9a13/6d8c74cbefaafcb24b3ac8af9cad6fbe.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6999ac5e9a13/02dda3ba01b7a56ac2e5199763cf8f05.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6999ac5e9a13/f559e221fdd1b4a09ab70cf0dae6b35a.webp: HTTP Error 404: Not Found
+  [123loger] 750 EUR - Location, étudiant, vieille ville (quartier: vieux nice)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69a73be6bedd/73225c5db87975c4065ba593f1b172a2.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69a73be6bedd/eb11e63b08e7834800db53aa0e7a8b70.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69a73be6bedd/0c0704b3c13c1433e3f1092d0a71f5a8.webp: HTTP Error 404: Not Found
+  [123loger] 700 EUR - Studio Nice Fabron Residence piscine très calme (quartier: centre-ville)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a270b2ec635/7bf26b4f8dbb95ecfe346c38b5771385.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a270b2ec635/a70e58afd85cdffbe55b3078159e464b.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a270b2ec635/1432405908b7c9d6fa7d645ff37dde44.webp: HTTP Error 404: Not Found
+  [123loger] 750 EUR - Studio à louer Nice 33 m2 en excellent état (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/2a483864/71c9fa767664a7cebda3f010ec86428a.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/2a483864/5a7b07ee57615665886fe9a4693ed6a4.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/2a483864/6ffafef6c6be0c2552a7df3d3e560b64.webp: HTTP Error 404: Not Found
+  [123loger] 580 EUR - Beau Studio meublé 32m2 Pasteur 580 euros (quartier: cimiez)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6969f4c71c57/3257fb934d969ed976f51e8ab3fa0fdd.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6969f4c71c57/57aca43ec3162809bd9e56f8c6a00a69.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6969f4c71c57/127f248e92c792ba89dc89941f0d42db.webp: HTTP Error 404: Not Found
+  [123loger] 700 EUR - Location studio (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/693fcee835ea/80d12405512f8a73d102ecf86153282c.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/693fcee835ea/a8bbe1f9c425b13e9e050abc7b579ad3.webp: [Errno 54] Connection reset by peer
+  [http] failed https://www.123loger.com/location/uploads/properties/images/693fcee835ea/5ba730d540df9baad3135237447502fd.webp: HTTP Error 404: Not Found
+  [123loger] 800 EUR - Central, beau Studio (F1 35m2) meublé, très lumi (quartier: parc impérial)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4b7912ec25/a386b618f944950e6b847a81fd1138dc.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4b7912ec25/99a0d5010ab7ca5326436d053b5748cb.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4b7912ec25/708be012950a1efd51d21a831f10463e.webp: HTTP Error 404: Not Found
+  [123loger] 595 EUR - Studio meublé pour étudiants (quartier: médecin)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/457b55e3/9b57bd4fd8c0c549a58379532ec7cdfd.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/457b55e3/c3ed061d1a1081ea8c04103434750a92.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/457b55e3/ac91a6da819f4413945b965385c3d426.webp: HTTP Error 404: Not Found
+  [123loger] 650 EUR - Appartement rénové. Nice quartier du Port : AVENUE (quartier: port de nice)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/697a79745ddc/ac20283bbe697083973f17d116dde85b.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/697a79745ddc/3648557d52e0ebbd02dc3013242aa8cb.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/697a79745ddc/2c75c1d0f4dc4682b6724d69dcc85807.webp: HTTP Error 404: Not Found
+  [123loger] 750 EUR - Studio nice Cimiez (quartier: cimiez)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/698914df8ab4/d67f0d5f5778b6cb59c2a18430637a6a.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/698914df8ab4/0e3ee8291a6942c3a9aca59a75c87d11.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/698914df8ab4/950e887818a76e8136bfdd7cb6a3d22d.webp: HTTP Error 404: Not Found
+  [123loger] 720 EUR - Location étudiant (quartier: californie)
+[123loger] page 10: 24 ads
+  [http] failed https://www.123loger.com/location/uploads/properties/images/175abf84/19f227d234864f6a7f87d2f0b0ba19ec.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/175abf84/39bcb99c95a930151f88eb53b02e9652.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/175abf84/b82ad32658133f6c121e16b8f7919e46.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/175abf84/ea72f9030aca3fb960fcdf0ec826360e.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/175abf84/8eaea641950ae6d66b2382d84ce88633.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/175abf84/fb970def2a9ee9aeca78ec9fb9368d4a.webp: HTTP Error 404: Not Found
+  [123loger] 890 EUR - Appartement refait à neuf et entièrement équipé (quartier: medecin)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/697b4152ed3e/49ff979b536518fa2c325b43c14437a6.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/697b4152ed3e/cf799ecfcd2386d7d3967a9358fa81d8.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/697b4152ed3e/bb1aaefaa91d2f8d8ce362d3b7f55e27.webp: HTTP Error 404: Not Found
+  [123loger] 750 EUR - Magnan/ Promenade des Anglais - Studio meublé (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/699aff18a4e8/984a38c266467b4e6a347b0781edf355.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/699aff18a4e8/4c29a54ab00e375b7e620ccc61b03342.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/699aff18a4e8/bf079f6205a5231ef1ba74d66094ddf2.webp: HTTP Error 404: Not Found
+  [123loger] 760 EUR - LOUE STUDIO 26m2 AVEC PARKING (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a1415cd085a/d31cb884cff3ed7c0b3b5f5f2e5dfbbb.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a1415cd085a/9717e76caedcbee348e59f786781a2c5.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a1415cd085a/c04e3e74cd896eca25babdbd4007529d.webp: HTTP Error 404: Not Found
+  [123loger] 700 EUR - Studio calme (quartier: riquier)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2812fc9ba7/757c4f44a4fe378bc02e9567fc84d083.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2812fc9ba7/39d08ba7279c239e8a6b2ff9e2831ab6.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2812fc9ba7/3dc0204a93fb9a5523b17aaa4735c338.webp: HTTP Error 404: Not Found
+  [123loger] 850 EUR - Loue F2 de 33m2 meublé (quartier: port de nice)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2f28b59d7b/9a6f5fe619f2224dea2c32fd69b34b6f.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2f28b59d7b/5faf71bbc3de05455524a1ef9f965b63.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2f28b59d7b/0a79dfefc71a125f5ab68d49a81e7fce.webp: HTTP Error 404: Not Found
+  [123loger] 800 EUR - Studio meublé Valrose (quartier: centre-ville)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a301cd984fa/ff63d03e602996aec92803682ff21bcd.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a301cd984fa/8d7499e37d112427ca86b6b07abd9a2e.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a301cd984fa/dafa8973f2c9b56a43ec8f98e47a30a5.webp: HTTP Error 404: Not Found
+  [123loger] 700 EUR - Studio meublé étudiant rénové 2025 – Calme absolu (quartier: valrose)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a31d59ccb8a/722cbbdc635115ede6ed70b9bd576e0c.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a31d59ccb8a/ef06d6729a9c79381b3a006add5f6de4.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a31d59ccb8a/240bc51f072493d57ad0dda4aaf05081.webp: HTTP Error 404: Not Found
+  [123loger] 600 EUR - 4. Location étudiant 19 m² – Nice Magnan (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/9b57fbc3/19e50b4124d16ed0ce92e6b68bfccb7c.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/9b57fbc3/8099f21aab5e38adc5daac67765ae36f.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/9b57fbc3/631259be0377322190723bdc9aea2517.webp: HTTP Error 404: Not Found
+  [123loger] 830 EUR - Location Studio 30m2 (quartier: gambetta)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/1c0631f2/b06371a11fcf914fdd80ae92e42c5d45.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/1c0631f2/00373c3fa2fc159ee6cdc3c07c057632.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/1c0631f2/1d21810fb5ed67390f0503e609ab033e.webp: HTTP Error 404: Not Found
+  [123loger] 735 EUR - Loue T2 bas de Gairaut dans immeuble classé (quartier: médecin)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4bb7a46ca8/de85ac53907582acdaaff619b3f53ff0.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4bb7a46ca8/f9e1b007a22a1687997738e1ae9289db.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4bb7a46ca8/4f50a80d99b2ca0317fb8e1db586f8b4.webp: HTTP Error 404: Not Found
+  [123loger] 768 EUR - Studio premium Pour ÉTUDIANT(E) (quartier: le port)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a24b10d191f/a24b28186aeab02ed6de9380cd69c07e.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a24b10d191f/24eb998efc2b44374bb3410520895b5b.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a24b10d191f/fc58c6a5045f6d5ed7802867e3701952.webp: HTTP Error 404: Not Found
+  [123loger] 610 EUR - Studio Parc Phoenix disponible immédiatement (quartier: centre-ville)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a270b28ed59/759eff1fa6e3ae46f486fa2bf59203a0.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a270b28ed59/bc172806970dfa303f4d4d21211c0ea4.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a270b28ed59/607c8656db496d1197401bdf28c15189.webp: HTTP Error 404: Not Found
+  [123loger] 900 EUR - Location meublée T2 (None)
+  [123loger] 550 EUR - Apparte T1 meublé de 25m² à louer à Nice, 1 étage (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/697e0be64d51/9e226c8fa4b79dc01640c1213238a54b.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/697e0be64d51/6d056893d362617687de45bf4cdea6bb.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/697e0be64d51/7680c9b5865dd3ec71c78574bd43cf88.webp: HTTP Error 404: Not Found
+  [123loger] 750 EUR - Riquier studio meublé rénové (quartier: riquier)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a477a8c33ba/cc058dbb60505a95d867e4d6be8cc982.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a477a8c33ba/4d66fe362937b1959282ca9243cc7f7e.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a477a8c33ba/ead00a150e4e9345650fc57a0f216da6.webp: HTTP Error 404: Not Found
+  [123loger] 700 EUR - Studio pour étudiant - Port de Nice (quartier: port de nice)
+[123loger] page 11: 24 ads
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2898505d98/2f3c165f862806ab312455afcd4ee58c.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2898505d98/6ecec7c5806604f06ac1aec88114ec70.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2898505d98/0c0cc8243d08e8d0df25f40137a6f7e9.webp: HTTP Error 404: Not Found
+  [123loger] 870 EUR - 2 pièces à louer meublé (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4511f566a1/1145f98bf6cdcec8cf9d232114c5104b.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4511f566a1/e0074d43bf113040be667e229fd56010.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4511f566a1/93d07e86ec1cab976ba92dcc74455044.webp: HTTP Error 404: Not Found
+  [123loger] 755 EUR - Location T1 Etudiant (quartier: libération)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a45164cae84/bd8681f51ead7bf21538dfb6a8a5771f.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a45164cae84/0a9eb6743f9abb5f63921d965fd8c027.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a45164cae84/cde2529f06e172fed53d8d3cc56b627c.webp: HTTP Error 404: Not Found
+  [123loger] 670 EUR - Studio 27 m2 fac de lettre (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6956ab3d420f/bf81184dedbd9dfd08190656fb69096a.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6956ab3d420f/2eb15b8e5ca6ef7047bf49969cfce772.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6956ab3d420f/bc28ca37c1dbc614bc27542416742aaa.webp: HTTP Error 404: Not Found
+  [123loger] 770 EUR - F1 à louer étudiant uniquement (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/516a4a05/121d2dddf776c41890774f78d7d0d35b.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/516a4a05/8e4833e2b2fb9583d161d1c2dbf3b911.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/516a4a05/ab2c4f79ffaa5b032dd5b4dd025ec3b2.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/516a4a05/2548d19c3b86c3dcb292ac8b801b1cf6.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/516a4a05/c1463e9401ff1b9649d8e8b64dc3ceb2.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/516a4a05/57de3aa7dbca5e750b5875df76b8ffba.webp: HTTP Error 404: Not Found
+  [123loger] 700 EUR - Studio à louer sur Nice (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a42d691ebe8/a912a39741877ad33124add5b3a65a23.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a42d691ebe8/eae571ae97ab30b3440804399e93462d.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a42d691ebe8/7e0c5e784095fee9c87f50fe51ef0a15.webp: HTTP Error 404: Not Found
+  [123loger] 900 EUR - Nice Liberation, beau studio tout confort au calme (quartier: liberation)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/84e86dc0/4d0c25ef254865bf05c5874c8b162bcf.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/84e86dc0/dfd3f8f9a13127f50542acd4c721fd1d.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/84e86dc0/a920008ea462870f8f115765b3b4c1e0.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/84e86dc0/1d47ce3e52e4ef6b081a37fdce7483cc.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/84e86dc0/9ba1cfcd0305df0fd2e23a01f85b2301.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/84e86dc0/6701dba9c5b9728374a9a7646d86cf9b.webp: HTTP Error 404: Not Found
+  [123loger] 645 EUR - Superbe studio 34m2 à Nice (geocoded: rue Marcel Pagnol)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/2abb6447/dfe73d03d64815b2bd10bb67e9f2b040.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/2abb6447/3ebbad88a4d45ad1f4ae48995d5af565.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/2abb6447/488e28ef9ceb13be1d56abc66cc68d26.webp: HTTP Error 404: Not Found
+  [123loger] 760 EUR - Bail etudiant 2pièces meublé 25m2 renové (geocoded: boulevard Carlone)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695a6e6d8d2c/54f86d22154a85e1226c297b697f88fa.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695a6e6d8d2c/2db7a7d9fca2dbf795dfa665232090d6.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695a6e6d8d2c/42870cfd93f36c503383355af526b595.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695a6e6d8d2c/55d67d765093f44352e368becf50b655.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/695a6e6d8d2c/05bfaae3eb3d8229f50fbce6fbf6625e.webp: HTTP Error 404: Not Found
+  [123loger] 450 EUR - Studette pour étudiant centre de Nice (quartier: gambetta)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/cd762166/7a1e63ddaee1c68520f7ca0308eac1dd.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/cd762166/353cab8ce7e79a7832dfba7e58974856.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/cd762166/8b22095b077aa8225ba99c7b37aa033c.webp: HTTP Error 404: Not Found
+  [123loger] 550 EUR - Particulier loue studio meuble bornala (geocoded: avenue Bornala)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/7adfc496/357257cd344ce2d1bbfd7298d1d0c281.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/7adfc496/bea687b8e55f4886e05b715e75f101cd.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/7adfc496/7193e9aa1db1cbcefbb3a87bc8550670.webp: HTTP Error 404: Not Found
+  [123loger] 560 EUR - Studio neuf avec terrasse Borriglione / Valrose (quartier: libération)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6aad07539004/f5ec7068c27c4cf8a9206f609ce49193.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6aad07539004/85ef05f60ca0e986d16cc403857b8381.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6aad07539004/29d408a6ea237892b0740a998bce7dcb.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6aad07539004/8d9397a9638e22044771d1984279e5fd.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6aad07539004/301b2b1813dfe2db494c6be2af3c5488.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6aad07539004/4be515c44f5070c2224ba721ca8dbe9f.webp: HTTP Error 404: Not Found
+  [123loger] 620 EUR - Studio meublé 18m² - Nice – Calme sur cour (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4bb880cef7/cc99ad6f5ceb81d7955f27c7f6a1e577.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4bb880cef7/8d59762f09f0da2a74e1de11aaa34546.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4bb880cef7/983e09cfdae0037b86e6d23e86a1dd68.webp: HTTP Error 404: Not Found
+  [123loger] 700 EUR - Studio rénové plein Centre Nice (quartier: médecin)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/845cd4d3/d7bdda48c9f4338e03780a35e9b7f13a.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/845cd4d3/a0be971ca349aff86aefe1d644fb0de3.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/845cd4d3/036e5d037beb7117533eb654f4a13ac1.webp: HTTP Error 404: Not Found
+  [123loger] 650 EUR - Chambres dispo dans Colocation Nice/Libération (quartier: liberation)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69524ffdcb69/cecfe01e96fb41b12221d2562509e9b0.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69524ffdcb69/facc38cd0c4cb544554f47dc85bfa1ef.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69524ffdcb69/21265bc00e82e6408c4c27aa7f366c49.webp: HTTP Error 404: Not Found
+  [123loger] 850 EUR - Appartement F1 38 m2 (quartier: musicien)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/1cd56fff/4ecc5b8c17df1c87e5f0227fc4d56bbf.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/1cd56fff/a35656e4f57a0fd3e4cb2fe26f1ad6b8.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/1cd56fff/645f9c1998007042fb76886e40e935b4.webp: HTTP Error 404: Not Found
+  [123loger] 690 EUR - Nice Fabron beau studio meublé piscine - tennis (quartier: fabron)
+[123loger] page 12: 24 ads
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a1d85fc4bbd/7cc188fad3cdef61bff13ead6d473a0a.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a1d85fc4bbd/1a16a60464855b1f93145f2577422801.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a1d85fc4bbd/d37990ff69a28b2c94dd1db73ba76215.webp: HTTP Error 404: Not Found
+  [123loger] 801 EUR - Studio entre Opéra et Cours Saleya (quartier: vieux nice)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a8beb4165d6/c41ad2b8df3314928dd10de986d415c7.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a8beb4165d6/dd1f3feccbce0815da286329eef7d475.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a8beb4165d6/03a26e46c9635f6235683376f556640d.webp: HTTP Error 404: Not Found
+  [123loger] 680 EUR - Studio Nice proche Bd Gambetta (quartier: gambetta)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4625268d38/7f7e8a70d26641635ea65ce8724cd44c.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4625268d38/5af69b28dc635e3f34b9ad3c288c0bcc.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4625268d38/f6771d4970f384d33aba092bb0b2c3d2.webp: HTTP Error 404: Not Found
+  [123loger] 760 EUR - Studio étudiant Nice proche Valrose (quartier: borriglione)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6cead415/26c6225323edb8460b3104337200f41b.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6cead415/0f6510a4aa86806f48f3e511b5a7baf6.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6cead415/2031ed98387510fe87adeeedade59705.webp: HTTP Error 404: Not Found
+  [123loger] 690 EUR - Superbe studio Valrose meublé 20m2 à Nice (quartier: valrose)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2ace5ab533/c32060a63527c5fb9e571e6501ea476f.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2ace5ab533/c1b4f25dc04378398df466e09fec86e0.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a2ace5ab533/a5d3297cde0e08471ff141e6add112ff.webp: HTTP Error 404: Not Found
+  [123loger] 880 EUR - Studio étudiant avec terrasse quartier Magnan (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/d2783b34/285bfd127bd4388b26b03b1e67712d9f.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/d2783b34/fb631dd4f161299053dc708b057de11e.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/d2783b34/f46def6148360f06b736ea1880664acd.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/d2783b34/ec850381fc714c7d35d8d57a5083fdc1.webp: HTTP Error 404: Not Found
+  [123loger] 750 EUR - Location studio Gare du Sud (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6992f20b3fd8/41983c563700f14b9fb227ac4d9447d7.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6992f20b3fd8/84a829148f365939bca112d473ae1dfa.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6992f20b3fd8/66dfdd33573d9133ee2a6371999241e0.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6992f20b3fd8/cf3f5336ee3e9a3561676a8301fde511.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6992f20b3fd8/ab13911f1281f12cdcfdab221025ab7d.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6992f20b3fd8/d622925d184a781474c0ea1add8159a4.webp: HTTP Error 404: Not Found
+  [123loger] 650 EUR - Chambre dans une colocation 130 m² Nice (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/a585baa1/9a90af62570f4c1bc1e3f6591fb4d84e.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/a585baa1/e086d217a15b6de0c9a4ef2f6ff2a888.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/a585baa1/b4feee526a6017dfd35689e1522d1d6a.webp: HTTP Error 404: Not Found
+  [123loger] 670 EUR - Studio meublé tout équipé 23m2 (quartier: riquier)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4edf46b114/b82070929619f31d546ca64637bebc1c.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4edf46b114/a323100953da3b4653a0c1c3311809fd.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4edf46b114/aab9723216012ea077e6332d92dc3edb.webp: HTTP Error 404: Not Found
+  [123loger] 625 EUR - Studio meublé Nice Ouest (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/67483c1e02b4/f7ae2e13bf62534fbf2ec7f40135a85d.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/67483c1e02b4/55bc9a2809230611340c7dd6e85099c4.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/67483c1e02b4/5e7494a36241b3733301346ef100eea0.webp: HTTP Error 404: Not Found
+  [123loger] 810 EUR - Loue superbe studio à Nice centre et mer (quartier: centre ville)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/bc7a88e0/258c11aa077dcbf4bb82094ee9df14fa.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/bc7a88e0/b9635d8e2ff88ead5e08a86421740f94.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/bc7a88e0/5da8fddd5561480c72029a7305204fe2.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/bc7a88e0/df626ebb184cb1575205b1bf4514e075.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/bc7a88e0/0b779947ea7d55141e725cb49c98068d.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/bc7a88e0/bcb8c5b906857481a6f30dea4f0aee98.webp: HTTP Error 404: Not Found
+  [123loger] 745 EUR - Location meublée appartement 2 pièces 23 m² (quartier: centre-ville)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6932b5fd72d3/a521d9c04d41cdc3f58e12bb323fb7a5.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6932b5fd72d3/62ae11018f7b9ddc4ab6bc230f780094.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6932b5fd72d3/da58f8fdbc51bc1c22ea074054bcdcd5.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6932b5fd72d3/62021429b2b13c2d64e7a67c9ed113db.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6932b5fd72d3/8998b372481325b3c1e5f47ac7a132b7.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6932b5fd72d3/cb1aa0333298c2e85769c988b25dd343.webp: HTTP Error 404: Not Found
+  [123loger] 900 EUR - BEAU STUDIO 24 M2 RENOVE (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/66c4783720b7/26d5b20786db59737c51c39376c09439.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/66c4783720b7/03cf005e39b981537cc9eab126d1654d.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/66c4783720b7/cc1a59f1198733048b45669099143df9.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/66c4783720b7/446c50826faebc4b5ba802044ea1b63a.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/66c4783720b7/85dee35470d98c898de9ef05fc17ff97.webp: HTTP Error 404: Not Found
+  [123loger] 900 EUR - Beau T2 meublé proche de la plage Carras (quartier: carras)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a27612fbd05/63ffc837c4b2dcca093c69af917e2603.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a27612fbd05/21dc36456877973ab450395cf7b85a5d.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a27612fbd05/adf974dd1a8ff3089aae59b05cc5de6b.webp: HTTP Error 404: Not Found
+  [123loger] 790 EUR - Studio 24m2 Bail étudiant Nice ouest (None)
+[123loger] page 13: 24 ads
+  [http] failed https://www.123loger.com/location/uploads/properties/images/f9c17035/7e02b26a275619b2e61bc29d0199376a.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/f9c17035/6ec52ac452d79ba1d358283639a8b5bf.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/f9c17035/9191f357c31d1a8326fa315914246c6a.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/f9c17035/8a7607c2dc2652057e725a0527a0c39c.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/f9c17035/3172d8baefd20179821be7b44ea277e2.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/f9c17035/27c4a874e12ad21ebd2703c548bf8e80.webp: HTTP Error 404: Not Found
+  [123loger] 650 EUR - Studio 1 pièce de 34m2 (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/17748185/3b3b40f2b748fd116baa7508f1dcb472.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/17748185/14525cc410e6800503f0dfab92bc5980.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/17748185/1f2a4c07649b65ffe86d99b7fe0b58bb.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/17748185/3b5fb7ee2fe87366913d0e26363c1381.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/17748185/7581bf43632354c28023c9660b20b784.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/17748185/44c952ba603632b353a2111f2d96077d.webp: HTTP Error 404: Not Found
+  [123loger] 680 EUR - A louer studio a 3 minutes a pieds des plages (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/a746f818/382af7a912b6cac92efdfb8c001f7ce8.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/a746f818/e7f3136258c00c119936814982636320.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/a746f818/98d22fa35727417b3f0963799c2d5050.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/a746f818/598fa7904649f1bb2969604e73b9955c.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/a746f818/7ae3b2bccb2a17a3579b4635a289abb1.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/a746f818/a6625d339565b0216b5343c6b3f177d3.webp: HTTP Error 404: Not Found
+  [123loger] 710 EUR - Studio T1 plein centre de Nice (quartier: masséna)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/eb3acd94/25ca8f5f69e38d16fe20fb6331a19e07.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/eb3acd94/04a7d831ea415f15fcecc5622779fdd8.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/eb3acd94/1204013270ac78401c145099a3995e68.webp: HTTP Error 404: Not Found
+  [123loger] 690 EUR - Appartement meublé à louer (quartier: riquier)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/e1996473/81057fbfbdc6f44e9b1173c77753039f.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/e1996473/cfed0bfa7c28738de18b0800568231b7.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/e1996473/3cb3a46ad3f91400737aee2ab4b81733.webp: HTTP Error 404: Not Found
+  [123loger] 800 EUR - Nice place Mozart T2 meublé (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/9cb64326/c66c3e8096924cc9bace147dbd5d5341.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/9cb64326/c3533c454feaabcf8aa35a4e45dd39b1.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/9cb64326/fd862e4128b5b6c583a6a49ba4cbff32.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/9cb64326/835365c7ea65cfe98fb32a5bafaa86ee.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/9cb64326/86e9fdb22c53a04b2515e5fab1404c1d.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/9cb64326/dc9e79de53022b773c25ee326629ce31.webp: HTTP Error 404: Not Found
+  [123loger] 680 EUR - A louer studio a 3 minutes a pieds des plages (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/67615d13696f/a1c59ff701199dc38fea032d0e88d3f3.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/67615d13696f/587f6f28a4bdff05a3240ce24eb86980.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/67615d13696f/c1adff4f1c5469a14692aa1b63d9dfc9.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/67615d13696f/06ccfe56574a428cb1f8a8e37bc9beef.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/67615d13696f/4c1f088d734ffd9447691155cd30ce42.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/67615d13696f/5eef74f76d6ea068c37f3de43d56b2ce.webp: HTTP Error 404: Not Found
+  [123loger] 680 EUR - Beau studio meublé 30m² avec balcon (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/5a19e5e2/30d739783e289b9c9d0f3d47d6d69816.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/5a19e5e2/c2ee349d5a17c766bcf08feb31975263.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/5a19e5e2/9bacf333980a546587c5480f203a982b.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/5a19e5e2/10f6252e716ab971fdd4558f92790c80.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/5a19e5e2/d646e694c50b1ad8280079653d242b5a.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/5a19e5e2/83e327742a6fabd41a41f3341eb24886.webp: HTTP Error 404: Not Found
+  [123loger] 570 EUR - Colocation 1 chambre Nice centre (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/dc238c56/5766a2278a624fe0b34802598a647c2b.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/dc238c56/e3b9fa3fb13488b99e026adc626baa56.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/dc238c56/6053988d526d8be7268fc5b946d33082.webp: HTTP Error 404: Not Found
+  [123loger] 750 EUR - Studette dans l’hôtel le Negresco (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/8f698570/1d7c96658c7f39420012f8ff34d671de.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/8f698570/554a4d630add06b893169a9805d0a86f.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/8f698570/fde56cea2afeffa47d1c2cdcd3e534c8.webp: HTTP Error 404: Not Found
+  [123loger] 560 EUR - Studio de nov à juin sur Nice (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/8941c474/2329983181a6c2808c34737c3f4e1e50.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/8941c474/68b423ab5ece23475b678ac65cece0b0.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/8941c474/a6f9dd727a6238af961f689555c222e0.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/8941c474/297d7d1f0b8ef7ae1be42a8b716a7d54.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/8941c474/0760011cb5c1d63b0bb2e04a85054eb7.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/8941c474/c428d96c242b0fb0ca8cb563a60bdb39.webp: HTTP Error 404: Not Found
+  [123loger] 900 EUR - Appartement meublé typique quartier des fleurs (None)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/68fc9e601b17/c032e4574bb9fefdc703d4d1946f8bf8.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/68fc9e601b17/8038d971661b5e471b430d78c8b71eee.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/68fc9e601b17/95d275a567e643f9a73953ae9688125a.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/68fc9e601b17/0c1362283e4dc3d95cf04ac741a80c86.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/68fc9e601b17/a36192fc529af9575a3d302f285cb456.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/68fc9e601b17/b12d2646618e0b6852ed66f6bba4a950.webp: HTTP Error 404: Not Found
+  [123loger] 710 EUR - Coquet F1 meublé près faculté Valrose (quartier: borriglione)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69ccb797d299/12b326f23ea0502cbfc14defe7a6cd04.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69ccb797d299/a592885320363e34454c299cc35e2fec.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69ccb797d299/f3f87394924bdd75c39b93afde5298e7.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69ccb797d299/3a96f7ef9dfeda7277a65b6d43049186.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69ccb797d299/ea65b01ffa216503e1d7eb6f5211f270.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/69ccb797d299/decb5ae0974697b2ad6c88a367f212fa.webp: HTTP Error 404: Not Found
+  [123loger] 850 EUR - Studio meublé refait à neuf terrasse centre ville (quartier: centre ville)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/2fbe2541/d937402f0b06e0004cc4ee05bd945fdf.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/2fbe2541/b3688ac023947b0c500da6bf9129278e.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/2fbe2541/e397e30d02e4451e12285261d762340d.webp: HTTP Error 404: Not Found
+  [123loger] 690 EUR - NICE GALLIENI BAIL MOBILITESTUDIO 23 M2 (quartier: vieux nice)
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4bceb19283/9535168fe0791c54a1a40c350e9337f9.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4bceb19283/4ab7f29b731d517bbf7d23d944721ed5.webp: HTTP Error 404: Not Found
+  [http] failed https://www.123loger.com/location/uploads/properties/images/6a4bceb19283/721d7f04b1f353598a0c80b196adaba2.webp: HTTP Error 404: Not Found
+  [123loger] 850 EUR - LOUE NICE STUDIO 24 m2 (None)
+  [http] failed https://www.123loger.com/location/nice-06000/appartement/?page=14: HTTP Error 404: Not Found
+[done] wrote /Users/hadykamel/nice-apartments/data/listings.json: 430 listings {'123 Loger': 182, 'LocService': 64, "Bien'ici": 189}, 223 near centre/promenade, 317 with coordinates

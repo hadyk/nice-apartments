@@ -1,10 +1,11 @@
 # Nice apartments — centre & Promenade
 
-A shareable snapshot of **189 rental flats** in Nice, **117 of them** in the centre or
-within walking distance of the Promenade des Anglais. Every listing includes photos, rent,
+A shareable snapshot of **430 rental flats** in Nice, **223 of them** in the centre or
+within walking distance of the Promenade des Anglais (123 Loger: 182, Bien'ici: 189, LocService: 64). Every listing includes photos, rent,
 charges, deposit, surface, rooms, DPE/GES, agency contact and the full description.
 
-Data source: [Bien'ici](https://www.bienici.com) public listings. Snapshot: 2026-10-31T23:27:22+01:00.
+Data source: [Bien'ici](https://www.bienici.com) (agencies), [LocService](https://www.locservice.fr) and
+[123 Loger](https://www.123loger.com) (owner-direct listings). Snapshot: 2026-11-01T09:57:23+01:00.
 
 **Live page:** https://hadyk.github.io/nice-apartments/
 
