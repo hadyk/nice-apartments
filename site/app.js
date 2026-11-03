@@ -80,6 +80,9 @@
     source: $("#source"), nearOnly: $("#nearOnly"), showRooms: $("#showRooms"),
     grid: $("#grid"), empty: $("#empty"), count: $("#resultCount"),
     priceOut: $("#priceOut"), surfaceOut: $("#surfaceOut"),
+    filterToggle: $("#filterToggle"), filterToggleLabel: $("#filterToggleLabel"),
+    filterPanel: $("#filterPanel"), activeFilterCount: $("#activeFilterCount"),
+    showResults: $("#showResults"),
   };
 
   function fillRange(input) {
@@ -238,6 +241,21 @@
       text += " · " + hiddenRooms + " room" + (hiddenRooms === 1 ? "" : "s") + " hidden";
     }
     els.count.innerHTML = text;
+
+    const activeFilters = [
+      state.q !== "",
+      state.maxPrice !== 900,
+      state.minSurface !== 0,
+      state.rooms !== "any",
+      state.furnished !== "any",
+      state.district !== "any",
+      state.source !== "any",
+      !state.nearOnly,
+      state.showRooms,
+    ].filter(Boolean).length;
+    els.activeFilterCount.textContent = activeFilters;
+    els.activeFilterCount.hidden = activeFilters === 0;
+    els.showResults.textContent = "Show " + list.length + " apartment" + (list.length === 1 ? "" : "s");
   }
 
   function renderStats() {
@@ -505,6 +523,31 @@
   }
 
   /* ---------------- wire up ---------------- */
+  const mobileFilters = window.matchMedia("(max-width: 760px)");
+
+  function setFiltersOpen(open) {
+    const expanded = mobileFilters.matches ? open : true;
+    els.filterPanel.hidden = !expanded;
+    els.filterToggle.setAttribute("aria-expanded", String(expanded));
+    els.filterToggleLabel.textContent = expanded && mobileFilters.matches ? "Hide filters" : "Filters";
+  }
+
+  els.filterToggle.addEventListener("click", () => {
+    setFiltersOpen(els.filterPanel.hidden);
+  });
+
+  els.showResults.addEventListener("click", () => {
+    setFiltersOpen(false);
+    try { els.filterToggle.focus({ preventScroll: true }); } catch (_) { els.filterToggle.focus(); }
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    $("#listings").scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", block: "start" });
+  });
+
+  const handleFilterViewport = (event) => setFiltersOpen(!event.matches);
+  if (mobileFilters.addEventListener) mobileFilters.addEventListener("change", handleFilterViewport);
+  else mobileFilters.addListener(handleFilterViewport);
+  setFiltersOpen(!mobileFilters.matches);
+
   [els.q, els.sort, els.maxPrice, els.minSurface, els.rooms, els.furnished,
    els.district, els.source, els.nearOnly, els.showRooms].forEach((node) => {
     if (!node) return;
@@ -520,6 +563,7 @@
     els.rooms.value = "any";
     els.furnished.value = "any";
     els.district.value = "any";
+    els.source.value = "any";
     els.nearOnly.checked = true;
     els.showRooms.checked = false;
     render();

@@ -29,6 +29,19 @@
 
 <section class="controls" aria-label="Filters">
   <div class="controls-inner">
+    <div class="result-bar">
+      <p id="resultCount">Loading…</p>
+      <div class="result-actions">
+        <button class="filter-toggle" id="filterToggle" type="button" aria-expanded="true" aria-controls="filterPanel">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16l-6.2 7.1v5.1l-3.6 1.8v-6.9L4 5Z"/></svg>
+          <span id="filterToggleLabel">Filters</span>
+          <span class="filter-count" id="activeFilterCount" hidden></span>
+        </button>
+        <button class="link-btn" id="resetBtn" type="button">Reset filters</button>
+      </div>
+    </div>
+
+    <div class="filter-panel" id="filterPanel">
     <div class="search-row">
       <label class="search">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4a6 6 0 1 0 3.5 10.9l4.3 4.3 1.4-1.4-4.3-4.3A6 6 0 0 0 10 4Zm0 2a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"/></svg>
@@ -98,9 +111,7 @@
       </div>
     </div>
 
-    <div class="result-bar">
-      <p id="resultCount">Loading…</p>
-      <button class="link-btn" id="resetBtn" type="button">Reset filters</button>
+    <button class="btn btn-solid show-results" id="showResults" type="button">Show apartments</button>
     </div>
   </div>
 </section>
