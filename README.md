@@ -43,7 +43,8 @@ Use `python3 scrape.py --refresh` to ignore the local cache.
 - Toggle **Near centre / Promenade only**
 - Toggle **Include rooms & colocations**
 - Sort by price, surface or date
-- Collapse the filters on mobile to browse listings with a compact sticky result bar
+- Hide the filters with one tap (collapsed by default on phones and tablets); the filter
+  bar slides away while scrolling down and comes back when scrolling up
 - Open any card for the full description, charges, deposit, DPE/GES, agency phone,
   a map link and a link to the original ad
 - Share button (copies the link, or opens the system share sheet)

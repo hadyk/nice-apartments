@@ -15,7 +15,9 @@ Usage:
 import argparse
 import base64
 import copy
+import hashlib
 import json
+import re
 import shutil
 import subprocess
 import tempfile
@@ -41,6 +43,24 @@ def write_site_data(payload):
     body = "window.LISTINGS = " + json.dumps(payload, ensure_ascii=False) + ";\n"
     target.write_text(body, encoding="utf-8")
     return target
+
+
+ASSET_REF = re.compile(r'(?P<attr>(?:href|src)=")(?P<name>styles\.css|app\.js|data/listings\.js)(?:\?v=[^"]*)?"')
+
+
+def stamp_assets():
+    """Add ?v=<content hash> to asset links in site/index.html so browsers never
+    serve a stale stylesheet or script after a deploy (GitHub Pages caches 10 min)."""
+    index = SITE / "index.html"
+    html = index.read_text(encoding="utf-8")
+
+    def versioned(match):
+        digest = hashlib.sha1((SITE / match["name"]).read_bytes()).hexdigest()[:10]
+        return f'{match["attr"]}{match["name"]}?v={digest}"'
+
+    stamped = ASSET_REF.sub(versioned, html)
+    if stamped != html:
+        index.write_text(stamped, encoding="utf-8")
 
 
 def thumb_data_uri(photo_path: Path) -> str:
@@ -76,6 +96,9 @@ def build_standalone(payload):
     css = (SITE / "styles.css").read_text(encoding="utf-8")
     js = (SITE / "app.js").read_text(encoding="utf-8")
     html = (SITE / "index.html").read_text(encoding="utf-8")
+
+    # Drop cache-busting suffixes; everything below is inlined.
+    html = ASSET_REF.sub(lambda m: f'{m["attr"]}{m["name"]}"', html)
 
     # Inline the stylesheet.
     html = html.replace('<link rel="stylesheet" href="styles.css">', "<style>\n" + css + "\n</style>")
@@ -149,7 +172,8 @@ Use `python3 scrape.py --refresh` to ignore the local cache.
 - Toggle **Near centre / Promenade only**
 - Toggle **Include rooms & colocations**
 - Sort by price, surface or date
-- Collapse the filters on mobile to browse listings with a compact sticky result bar
+- Hide the filters with one tap (collapsed by default on phones and tablets); the filter
+  bar slides away while scrolling down and comes back when scrolling up
 - Open any card for the full description, charges, deposit, DPE/GES, agency phone,
   a map link and a link to the original ad
 - Share button (copies the link, or opens the system share sheet)
@@ -193,6 +217,7 @@ def main():
 
     payload = load_data()
     data_js = write_site_data(payload)
+    stamp_assets()
     standalone, kept = build_standalone(payload)
     write_readme(payload)
 

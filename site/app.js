@@ -523,30 +523,72 @@
   }
 
   /* ---------------- wire up ---------------- */
-  const mobileFilters = window.matchMedia("(max-width: 760px)");
+  // Phones (portrait or landscape), tablets and touch screens start with the filters collapsed.
+  const compactScreen = window.matchMedia("(max-width: 1080px), (max-height: 600px), (pointer: coarse)");
+  const controls = $(".controls");
+  const hero = $(".hero");
+  const listings = $("#listings");
 
-  function setFiltersOpen(open) {
-    const expanded = mobileFilters.matches ? open : true;
-    els.filterPanel.hidden = !expanded;
-    els.filterToggle.setAttribute("aria-expanded", String(expanded));
-    els.filterToggleLabel.textContent = expanded && mobileFilters.matches ? "Hide filters" : "Filters";
+  let openedByUser = false;
+
+  function setFiltersOpen(open, byUser) {
+    openedByUser = open && !!byUser;
+    els.filterPanel.hidden = !open;
+    els.filterToggle.setAttribute("aria-expanded", String(open));
+    els.filterToggleLabel.textContent = open ? "Hide filters" : "Filters";
+    controls.classList.toggle("is-open", open);
+    if (open) controls.classList.remove("is-tucked");
   }
 
   els.filterToggle.addEventListener("click", () => {
-    setFiltersOpen(els.filterPanel.hidden);
+    setFiltersOpen(els.filterPanel.hidden, true);
   });
 
   els.showResults.addEventListener("click", () => {
     setFiltersOpen(false);
     try { els.filterToggle.focus({ preventScroll: true }); } catch (_) { els.filterToggle.focus(); }
     const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    $("#listings").scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", block: "start" });
+    listings.scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", block: "start" });
   });
 
   const handleFilterViewport = (event) => setFiltersOpen(!event.matches);
-  if (mobileFilters.addEventListener) mobileFilters.addEventListener("change", handleFilterViewport);
-  else mobileFilters.addListener(handleFilterViewport);
-  setFiltersOpen(!mobileFilters.matches);
+  if (compactScreen.addEventListener) compactScreen.addEventListener("change", handleFilterViewport);
+  else compactScreen.addListener(handleFilterViewport);
+  setFiltersOpen(!compactScreen.matches);
+
+  // Scrolling down through the listings slides the whole filter ribbon out of the way
+  // (and folds the filters if they were left open); scrolling up brings the slim bar back.
+  let lastScrollY = window.scrollY;
+  let scrollQueued = false;
+
+  function onScroll() {
+    scrollQueued = false;
+    const y = window.scrollY;
+    const delta = y - lastScrollY;
+    if (Math.abs(delta) < 8) return;
+    lastScrollY = y;
+
+    const pastHero = y > hero.offsetHeight + 40;
+    const typing = document.activeElement === els.q;
+    if (delta > 0 && pastHero && !typing && modal.hidden) {
+      const insideListings = y + controls.offsetHeight > listings.offsetTop + 120;
+      if (!els.filterPanel.hidden && !openedByUser && insideListings && !controls.matches(":hover")) {
+        setFiltersOpen(false);
+      }
+      if (els.filterPanel.hidden) controls.classList.add("is-tucked");
+    } else if (delta < 0 || !pastHero) {
+      controls.classList.remove("is-tucked");
+    }
+  }
+
+  window.addEventListener("scroll", () => {
+    if (!scrollQueued) {
+      scrollQueued = true;
+      window.requestAnimationFrame(onScroll);
+    }
+  }, { passive: true });
+
+  controls.addEventListener("focusin", () => controls.classList.remove("is-tucked"));
 
   [els.q, els.sort, els.maxPrice, els.minSurface, els.rooms, els.furnished,
    els.district, els.source, els.nearOnly, els.showRooms].forEach((node) => {

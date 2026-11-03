@@ -92,14 +92,18 @@ h1 span{color:#ffd9a8;font-style:italic}
   position:sticky;top:0;z-index:40;
   background:rgba(246,243,236,.92);backdrop-filter:blur(14px);
   border-bottom:1px solid var(--line);
+  max-height:100vh;max-height:100dvh;overflow-y:auto;overscroll-behavior:contain;
+  -webkit-overflow-scrolling:touch;
+  transition:transform .25s ease;
 }
-.controls-inner{max-width:var(--max);margin:0 auto;padding:18px 28px 14px}
-.result-bar{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:12px}
+.controls.is-tucked{transform:translateY(calc(-100% - 2px));pointer-events:none}
+.controls-inner{max-width:var(--max);margin:0 auto;padding:12px 28px}
+.result-bar{display:flex;justify-content:space-between;align-items:center;gap:16px}
 .result-bar p{margin:0;font-size:13px;color:var(--muted)}
 .result-bar strong{color:var(--ink)}
 .result-actions{display:flex;align-items:center;gap:16px;flex:none}
 .filter-toggle{
-  display:none;align-items:center;justify-content:center;gap:7px;min-height:44px;
+  display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:44px;
   border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--sea-deep);
   padding:8px 12px;font-size:14px;font-weight:700;cursor:pointer;
 }
@@ -110,6 +114,7 @@ h1 span{color:#ffd9a8;font-style:italic}
   border-radius:999px;background:var(--sea);color:#fff;font-size:11px;line-height:1;
 }
 .filter-count[hidden],.filter-panel[hidden]{display:none}
+.filter-panel{margin-top:12px;padding-top:14px;border-top:1px solid var(--line)}
 .search-row{display:flex;gap:12px;align-items:center}
 .search{
   flex:1;display:flex;align-items:center;gap:10px;
@@ -146,7 +151,7 @@ input[type=range]::-webkit-slider-thumb{
 .toggle input{accent-color:var(--sea);width:16px;height:16px;cursor:pointer}
 .link-btn{border:0;background:none;color:var(--sea);font-size:13px;font-weight:650;cursor:pointer;padding:8px 2px;min-height:40px}
 .link-btn:hover{text-decoration:underline}
-.show-results{display:none}
+.show-results{display:none;width:100%;justify-content:center;min-height:48px;margin-top:16px}
 
 /* ---------- grid / cards ---------- */
 main.wrap{padding-top:30px;padding-bottom:20px}
@@ -300,6 +305,13 @@ main.wrap{padding-top:30px;padding-bottom:20px}
   .filter-grid{grid-template-columns:repeat(3,minmax(140px,1fr))}
   .toggles{grid-column:1/-1;flex-direction:row;gap:18px}
 }
+@media (max-width:1080px),(max-height:600px),(pointer:coarse){
+  .show-results{display:flex}
+  main.wrap{scroll-margin-top:12px}
+}
+@media (max-height:600px){
+  .controls-inner{padding-top:8px;padding-bottom:8px}
+}
 @media (max-width:760px){
   body{overflow-x:hidden}
   .wrap,.hero-inner,.controls-inner{padding-left:16px;padding-right:16px}
@@ -308,14 +320,12 @@ main.wrap{padding-top:30px;padding-bottom:20px}
   .stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
   .stat{min-width:0;padding:9px 12px}
   .stat b{font-size:21px}
-  .controls{max-height:100vh;max-height:100dvh;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
   .controls-inner{padding-top:8px;padding-bottom:8px}
-  .result-bar{flex-direction:row;align-items:center;gap:8px;margin-bottom:0}
+  .result-bar{gap:8px}
   .result-bar p{font-size:12px;line-height:1.35}
   .result-actions{gap:10px}
-  .filter-toggle{display:inline-flex}
   .link-btn{white-space:nowrap}
-  .filter-panel{margin-top:10px;padding-top:12px;border-top:1px solid var(--line)}
+  .filter-panel{margin-top:10px;padding-top:12px}
   .search-row{flex-direction:column;align-items:stretch;gap:10px}
   .search,.select-wrap{height:48px}
   .select-wrap{justify-content:space-between}
@@ -328,8 +338,7 @@ main.wrap{padding-top:30px;padding-bottom:20px}
   .toggle input{width:20px;height:20px;flex:none}
   input[type=range]{height:32px}
   input[type=range]::-webkit-slider-thumb{width:21px;height:21px;margin-top:-8.5px}
-  .show-results{display:flex;width:100%;justify-content:center;min-height:48px;margin-top:16px}
-  main.wrap{padding-top:20px;scroll-margin-top:64px}
+  main.wrap{padding-top:20px}
   .grid{grid-template-columns:1fr;gap:18px}
   .card:hover{transform:none}
   .modal{padding:0}
